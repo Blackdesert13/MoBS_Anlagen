@@ -1,0 +1,524 @@
+﻿--------------------------------------------------------------------------------------------
+Arduinos	Nr.	LageX	LageY
+MCSpeicher	1	10	10
+MCSpeicher	2	10	20
+MCSpeicher	3	10	30
+--------------------------------------------------------------------------------------------
+FahrReg	Nr.	LageX	LageY	Farbe	Bez
+Regler	1	4	3	Cyan	-16711681
+Regler	2	6	3	Fuchsia	-65281
+Regler	3	8	3	Gold	-10496
+Regler	4	10	3	CornflowerBlue	-10185235
+Regler	5	12	3	Chartreuse	-8388864
+Regler	6	14	3	Fuchsia	-65281
+Regler	7	16	3	Gold	-10496
+Regler	8	18	3	0	0
+Regler	9	20	3	0	0
+Regler	10	22	3	Chartreuse	-8388864
+--------------------------------------------------------------------------------------------
+Knoten	Nr.	LageX	LageY
+Knot	1	3	1
+Knot	2	1	3
+Knot	3	1	7
+Knot	4	3	9
+Knot	5	1	9
+Knot	6	2	10
+Knot	7	3	11
+Knot	8	22	10
+Knot	9	62	1
+Knot	10	21	2
+Knot	11	61	2
+Knot	12	63	4
+Knot	13	64	3
+Knot	14	63	10
+Knot	15	64	11
+Knot	16	64	16
+Knot	17	63	17
+Knot	18	20	3
+Knot	19	20	5
+Knot	20	21	6
+Knot	21	24	6
+Knot	22	26	4
+Knot	23	60	4
+Knot	24	61	5
+Knot	25	42	4
+Knot	26	41	5
+Knot	27	37	5
+Knot	28	29	5
+Knot	29	22	9
+Knot	30	22	11
+Knot	31	35	11
+Knot	32	36	10
+Knot	33	37	11
+Knot	34	40	14
+Knot	35	39	11
+Knot	36	43	15
+Knot	37	41	10
+Knot	38	40	9
+Knot	39	39	8
+Knot	40	9	8
+Knot	41	61	8
+Knot	42	60	9
+Knot	43	57	9
+Knot	44	47	16
+Knot	45	54	16
+Knot	46	55	17
+Knot	47	55	19
+Knot	48	54	20
+Knot	49	43	20
+Knot	50	8	15
+Knot	51	7	16
+Knot	52	13	15
+Knot	53	13	16
+Knot	54	5	18
+Knot	55	7	18
+Knot	56	8	17
+Knot	57	13	17
+Knot	58	13	18
+Knot	59	3	20
+Knot	60	5	20
+Knot	61	6	19
+Knot	62	13	19
+Knot	63	6	20
+Knot	64	7	21
+Knot	65	13	20
+Knot	66	13	21
+Knot	67	32	15
+Knot	68	33	16
+Knot	69	34	16
+Knot	70	33	17
+Knot	71	32	18
+Knot	72	37	16
+Knot	73	39	16
+Knot	74	34	19
+Knot	75	32	19
+Knot	76	31	20
+Knot	77	32	21
+Knot	78	1	22
+Knot	79	1	23
+Knot	80	2	24
+Knot	81	29	24
+Knot	82	21	24
+Knot	83	5	37
+Knot	84	37	37
+Knot	85	4	36
+Knot	86	37	36
+Knot	87	1	33
+Knot	88	1	29
+Knot	89	3	27
+Knot	90	10	27
+Knot	91	11	26
+Knot	92	17	26
+Knot	93	5	35
+Knot	94	4	34
+Knot	95	37	34
+Knot	96	37	35
+Knot	97	17	27
+Knot	98	3	33
+Knot	99	37	33
+Knot	100	2	32
+Knot	101	3	32
+Knot	102	4	31
+Knot	103	5	30
+Knot	104	37	30
+Knot	105	37	31
+Knot	106	37	32
+Knot	107	1	31
+Knot	108	63	24
+Knot	109	63	29
+Knot	110	64	22
+Knot	111	64	29
+Knot	112	49	37
+Knot	113	50	36
+Knot	114	51	36
+Knot	115	50	35
+Knot	116	53	36
+Knot	117	51	34
+Knot	118	49	34
+Knot	119	48	33
+Knot	120	49	32
+Knot	121	48	31
+Knot	122	47	30
+Knot	123	60	36
+Knot	124	64	32
+Knot	125	56	35
+Knot	126	59	35
+Knot	127	63	31
+Knot	128	54	33
+Knot	129	48	27
+Knot	130	54	31
+Knot	131	49	26
+Knot	132	17	23
+Knot	133	24	23
+--------------------------------------------------------------------------------------------
+Gleise	Nr.	StartKn	EndKn	Regler	Ausgang	Eingang	Bez
+Gleis	1	1 0	2 0	1	0 0 0	0 0 0	
+Gleis	2	2 2	3 0	1	0 0 0	0 0 0	
+Gleis	3	3 2	4 0	-2	0 0 0	0 0 0	
+Gleis	4	3 3	5 0	1	0 0 0	0 0 0	
+Gleis	5	5 2	6 0	1	0 0 0	0 0 0	
+Gleis	6	6 2	7 0	-1	0 0 0	0 0 0	
+Gleis	7	6 3	8 0	-3	2 1 10	0 0 0	
+Gleis	8	1 2	9 0	1	0 0 0	0 0 0	
+Gleis	9	10 0	11 0	1	0 0 0	0 0 0	
+Gleis	10	11 2	12 0	1	0 0 0	0 0 0	
+Gleis	11	9 2	13 0	1	0 0 0	0 0 0	
+Gleis	12	12 2	14 0	5	0 0 0	0 0 0	
+Gleis	13	110 0	16 0	3	0 0 0	0 0 0	
+Gleis	14	16 1	17 0	3	0 0 0	0 0 0	
+Gleis	15	17 1	14 2	3	0 0 0	0 0 0	
+Gleis	16	16 2	15 0	3	0 0 0	0 0 0	
+Gleis	17	15 2	14 3	3	0 0 0	0 0 0	
+Gleis	18	10 2	18 0	1	0 0 0	0 0 0	
+Gleis	19	18 2	19 0	1	0 0 0	0 0 0	
+Gleis	20	19 2	20 0	1	0 0 0	0 0 0	
+Gleis	21	20 2	21 0	1	0 0 0	0 0 0	
+Gleis	22	21 2	22 0	1	0 0 0	0 0 0	
+Gleis	23	23 0	24 0	1	0 0 0	0 0 0	
+Gleis	24	23 2	25 0	1	0 0 0	0 0 0	
+Gleis	25	25 2	26 0	1	0 0 0	0 0 0	
+Gleis	26	25 3	22 2	1	0 0 0	0 0 0	
+Gleis	27	26 2	27 0	1	3 0 9	0 0 0	
+Gleis	28	27 2	28 0	1	3 0 1	0 0 0	
+Gleis	29	4 2	29 0	-2	2 1 12	0 0 0	
+Gleis	30	7 2	30 0	-1	2 1 8	0 0 0	
+Gleis	31	30 2	31 0	-1	2 1 11	0 0 0	
+Gleis	32	31 2	32 0	3	0 0 0	0 0 0	
+Gleis	33	32 1	8 2	-3	2 1 13	0 0 0	
+Gleis	34	31 3	33 0	2	0 0 0	0 0 0	
+Gleis	35	33 2	34 0	2	3 2 12	0 0 0	
+Gleis	36	33 3	35 0	2	0 0 0	0 0 0	
+Gleis	37	35 3	36 0	2	3 2 15	0 0 0	
+Gleis	38	32 2	37 0	2	0 0 0	0 0 0	
+Gleis	39	37 1	38 0	2	0 0 0	0 0 0	
+Gleis	40	38 2	29 2	-2	2 1 12	0 0 0	
+Gleis	41	38 3	39 0	1	0 0 0	0 0 0	
+Gleis	42	39 2	40 0	1	2 1 15	0 0 0	
+Gleis	43	24 2	41 0	1	0 0 0	0 0 0	
+Gleis	44	41 2	42 0	1	0 0 0	0 0 0	
+Gleis	45	42 2	43 0	1	0 0 0	0 0 0	
+Gleis	46	43 2	38 1	1	3 2 10	0 0 0	
+Gleis	47	37 2	44 0	2	3 2 13	0 0 0	
+Gleis	48	44 2	45 0	2	0 0 0	0 0 0	
+Gleis	49	45 2	46 0	2	0 0 0	0 0 0	
+Gleis	50	46 2	47 0	2	0 0 0	0 0 0	
+Gleis	51	47 2	48 0	2	0 0 0	0 0 0	
+Gleis	52	48 2	49 0	2	0 0 0	0 0 0	
+Gleis	53	50 0	51 0	2	0 0 0	0 0 0	
+Gleis	54	50 2	52 0	2	2 0 14	0 0 0	
+Gleis	55	51 1	53 0	2	2 0 13	0 0 0	
+Gleis	56	51 2	54 0	2	0 0 0	0 0 0	
+Gleis	57	54 1	55 0	2	0 0 0	0 0 0	
+Gleis	58	55 2	56 0	2	0 0 0	0 0 0	
+Gleis	59	56 2	57 0	2	2 0 12	0 0 0	
+Gleis	60	55 3	58 0	2	2 0 0	0 0 0	
+Gleis	61	54 2	59 0	2	0 0 0	0 0 0	
+Gleis	62	59 1	60 0	2	0 0 0	0 0 0	
+Gleis	63	60 2	61 0	2	0 0 0	0 0 0	
+Gleis	64	61 2	62 0	2	2 0 1	0 0 0	
+Gleis	65	60 3	63 0	2	0 0 0	0 0 0	
+Gleis	66	63 2	64 0	2	0 0 0	0 0 0	
+Gleis	67	63 3	65 0	2	2 0 3	0 0 0	
+Gleis	68	64 2	66 0	2	2 1 7	0 0 0	
+Gleis	69	52 2	67 0	2	2 1 1	0 0 0	
+Gleis	70	67 2	68 0	2	0 0 0	0 0 0	
+Gleis	71	68 1	53 2	2	2 1 0	0 0 0	
+Gleis	72	68 2	69 0	2	0 0 0	0 0 0	
+Gleis	73	69 1	70 0	2	0 0 0	0 0 0	
+Gleis	74	70 2	71 0	2	0 0 0	0 0 0	
+Gleis	75	70 3	57 2	2	2 1 3	0 0 0	
+Gleis	76	71 2	58 2	2	2 1 2	0 0 0	
+Gleis	77	69 2	72 0	2	0 0 0	0 0 0	
+Gleis	78	72 2	73 0	2	0 0 0	0 0 0	
+Gleis	79	73 2	49 2	2	0 0 0	0 0 0	
+Gleis	80	72 1	74 0	2	0 0 0	0 0 0	
+Gleis	81	74 2	75 0	2	0 0 0	0 0 0	
+Gleis	82	75 2	76 0	2	0 0 0	0 0 0	
+Gleis	83	75 3	62 2	2	2 1 5	0 0 0	
+Gleis	84	76 2	65 2	2	2 1 4	0 0 0	
+Gleis	85	66 2	77 0	2	2 0 2	0 0 0	
+Gleis	86	74 3	77 2	2	0 0 0	0 0 0	
+Gleis	87	59 2	78 0	2	0 0 0	0 0 0	
+Gleis	88	78 2	79 0	2	0 0 0	0 0 0	
+Gleis	89	79 2	80 0	2	0 0 0	0 0 0	
+Gleis	90	77 1	81 0	2	0 0 0	0 0 0	
+Gleis	91	81 2	82 0	2	2 1 14	0 0 0	
+Gleis	92	82 2	80 2	2	3 2 8	0 0 0	
+Gleis	93	83 0	84 0	3	2 2 2	0 0 0	
+Gleis	94	83 2	85 0	3	0 0 0	0 0 0	
+Gleis	95	85 1	86 0	3	2 2 5	0 0 0	
+Gleis	96	85 2	87 0	3	0 0 0	0 0 0	
+Gleis	97	101 3	106 0	3	2 2 9	0 0 0	
+Gleis	98	88 2	89 0	3	0 0 0	0 0 0	
+Gleis	99	89 2	90 0	3	0 0 0	0 0 0	
+Gleis	100	90 2	91 0	3	0 0 0	0 0 0	
+Gleis	101	91 2	92 0	3	2 2 0	0 0 0	
+Gleis	102	93 0	94 0	3	0 0 0	0 0 0	
+Gleis	103	94 1	95 0	3	2 2 7	0 0 0	
+Gleis	104	93 2	96 0	3	2 2 4	0 0 0	
+Gleis	105	90 3	97 0	3	2 2 3	0 0 0	
+Gleis	106	94 2	98 0	3	0 0 0	0 0 0	
+Gleis	107	98 1	99 0	3	2 2 6	0 0 0	
+Gleis	108	98 2	100 0	3	0 0 0	0 0 0	
+Gleis	109	100 1	101 0	3	0 0 0	0 0 0	
+Gleis	110	101 2	102 0	3	0 0 0	0 0 0	
+Gleis	111	102 2	103 0	3	0 0 0	0 0 0	
+Gleis	112	103 2	104 0	3	2 2 11	0 0 0	
+Gleis	113	102 3	105 0	3	2 2 8	0 0 0	
+Gleis	114	100 2	107 0	3	0 0 0	0 0 0	
+Gleis	115	107 1	87 2	3	0 0 0	0 0 0	
+Gleis	116	88 0	107 2	3	0 0 0	0 0 0	
+Gleis	117	17 2	108 0	3	0 0 0	0 0 0	
+Gleis	118	108 2	109 0	3	0 0 0	0 0 0	
+Gleis	119	15 3	13 2	4	0 0 0	0 0 0	
+Gleis	120	110 2	111 0	3	0 0 0	0 0 0	
+Gleis	121	84 2	112 0	3	3 2 0	0 0 0	
+Gleis	122	112 2	113 0	3	0 0 0	0 0 0	
+Gleis	123	113 1	86 2	3	3 2 3	0 0 0	
+Gleis	124	114 0	115 0	3	0 0 0	0 0 0	
+Gleis	125	114 1	113 2	3	0 0 0	0 0 0	
+Gleis	126	115 2	96 2	3	3 0 3	0 0 0	
+Gleis	127	114 2	116 0	3	0 0 0	0 0 0	
+Gleis	128	116 1	117 0	3	0 0 0	0 0 0	
+Gleis	129	117 2	118 0	3	0 0 0	0 0 0	
+Gleis	130	118 2	95 2	3	3 2 1	0 0 0	
+Gleis	131	118 3	119 0	3	0 0 0	0 0 0	
+Gleis	132	119 2	99 2	3	3 2 2	0 0 0	
+Gleis	133	117 3	120 0	3	0 0 0	0 0 0	
+Gleis	134	120 2	106 2	3	3 2 5	0 0 0	
+Gleis	135	120 3	121 0	3	0 0 0	0 0 0	
+Gleis	136	121 2	122 0	3	0 0 0	0 0 0	
+Gleis	137	122 2	104 2	3	3 2 7	0 0 0	
+Gleis	138	121 3	105 2	3	3 2 4	0 0 0	
+Gleis	139	116 2	123 0	3	0 0 0	0 0 0	
+Gleis	140	123 2	124 0	3	0 0 0	0 0 0	
+Gleis	141	124 2	111 2	3	0 0 0	0 0 0	
+Gleis	142	125 0	126 0	3	0 0 0	0 0 0	
+Gleis	143	126 2	127 0	3	0 0 0	0 0 0	
+Gleis	144	127 2	109 2	3	0 0 0	0 0 0	
+Gleis	145	125 2	128 0	3	0 0 0	0 0 0	
+Gleis	146	128 2	129 0	3	0 0 0	0 0 0	
+Gleis	147	129 2	97 2	3	2 2 13	0 0 0	
+Gleis	148	128 3	130 0	3	0 0 0	0 0 0	
+Gleis	149	130 2	131 0	3	0 0 0	0 0 0	
+Gleis	150	131 2	92 2	3	2 2 10	0 0 0	
+Gleis	151	132 0	133 0	1	3 1 6	0 0 0	
+--------------------------------------------------------------------------------------------
+Weichen	Nr.	Knoten	Gru-Ste	Ausgang	Bez.
+Weiche	31	3 1	False	1 2 12	
+Weiche	61	6 1	False	1 2 15	
+Weiche	141	14 1	False	0 0 0	
+Weiche	151	15 1	False	0 0 0	
+Weiche	160	16 0	False	0 0 0	
+Weiche	170	17 0	False	0 0 0	
+Weiche	251	25 1	False	3 1 12	
+Weiche	311	31 1	False	1 1 15	
+Weiche	320	32 0	False	1 1 14	
+Weiche	331	33 1	False	3 1 9	
+Weiche	370	37 0	True	3 1 10	
+Weiche	380	38 0	True	3 1 11	
+Weiche	381	38 1	True	3 1 8	
+Weiche	510	51 0	False	1 2 13	
+Weiche	540	54 0	True	1 2 11	
+Weiche	551	55 1	True	1 2 10	
+Weiche	590	59 0	False	1 2 8	
+Weiche	601	60 1	False	1 2 9	
+Weiche	631	63 1	True	1 2 14	
+Weiche	680	68 0	False	1 1 6	
+Weiche	690	69 0	True	1 1 13	
+Weiche	701	70 1	True	1 1 9	
+Weiche	720	72 0	False	1 1 12	
+Weiche	741	74 1	False	1 1 10	
+Weiche	751	75 1	True	1 1 8	
+Weiche	770	77 0	False	1 1 11	
+Weiche	850	85 0	False	1 2 5	
+Weiche	901	90 1	False	1 2 1	
+Weiche	940	94 0	False	1 2 4	
+Weiche	980	98 0	False	1 2 2	
+Weiche	1000	100 0	False	1 2 3	
+Weiche	1011	101 1	True	1 2 7	
+Weiche	1021	102 1	False	1 2 6	
+Weiche	1070	107 0	True	1 2 0	
+Weiche	1130	113 0	False	1 1 4	
+Weiche	1140	114 0	False	1 1 7	
+Weiche	1160	116 0	False	0 0 0	
+Weiche	1171	117 1	False	1 1 5	
+Weiche	1181	118 1	False	1 1 2	
+Weiche	1201	120 1	False	1 1 3	
+Weiche	1211	121 1	True	1 1 0	
+Weiche	1281	128 1	False	1 1 1	
+--------------------------------------------------------------------------------------------
+GleisSchalter	Nr.	Gleis	Bez.
+Schalter	1	30 3	
+Schalter	2	7 4	
+Schalter	3	29 3	
+Schalter	4	40 4	
+Schalter	5	33 4	
+Schalter	6	31 10	
+Schalter	7	68 2	
+Schalter	8	67 3	
+Schalter	9	64 3	
+Schalter	10	60 3	
+Schalter	11	59 2	
+Schalter	12	55 3	
+Schalter	13	54 2	
+Schalter	14	91 2	
+Schalter	15	137 2	
+Schalter	16	138 3	
+Schalter	17	134 4	
+Schalter	18	101 2	
+Schalter	19	105 3	
+Schalter	20	132 3	
+Schalter	21	130 4	
+Schalter	22	126 5	
+Schalter	23	123 5	
+Schalter	24	121 8	
+Schalter	25	28 3	
+Schalter	26	27 3	
+Schalter	27	112 8	
+Schalter	28	93 8	
+Schalter	29	95 9	
+Schalter	30	104 8	
+Schalter	31	103 9	
+Schalter	32	107 10	
+Schalter	33	97 10	
+Schalter	34	113 9	
+Schalter	35	42 16	
+Schalter	36	46 8	
+Schalter	37	150 12	
+Schalter	38	147 11	
+Schalter	39	69 12	
+Schalter	40	71 8	
+Schalter	41	75 8	
+Schalter	42	76 7	
+Schalter	43	83 7	
+Schalter	44	84 6	
+Schalter	45	92 12	
+Schalter	46	85 12	
+Schalter	47	35 2	
+Schalter	48	37 2	
+Schalter	49	47 3	
+Schalter	50	151 3	
+--------------------------------------------------------------------------------------------
+FSSer	Nr.	Gleis	Regler1	Regler2	Ausgang	Bez.
+FSS	1	30 18	1	2	1 2 14
+FSS	2	29 18	1	2	1 2 15
+FSS	3	7 19	1	2	1 2 13
+FSS	4	12 1	4	5	3 1 7
+FSS	5	119 7	4	5	3 1 7
+--------------------------------------------------------------------------------------------
+Entkuppler_	Nr.	Gleis	Ausgang	Bez.
+Entkuppler	1	30 2	0 0 0	
+Entkuppler	2	7 3	0 0 0	
+Entkuppler	3	33 3	0 0 0	
+Entkuppler	4	31 11	0 0 0	
+--------------------------------------------------------------------------------------------
+Infos	Nr.	Gleis	Lage	Bez
+Info	1	30 4	0	 
+Info	2	7 5	0	 
+Info	3	29 4	0	 
+Info	4	31 2	0	 
+Info	5	33 10	0	 
+Info	6	92 2	0	 
+Info	7	40 10	0	 
+Info	8	46 7	0	 
+Info	9	46 14	0	 
+Info	10	118 3	0	 
+Info	11	13 2	0	 
+Info	12	47 2	0	 
+Info	13	47 4	0	 
+Info	14	54 3	0	 
+Info	15	55 4	0	 
+Info	16	59 3	0	 
+Info	17	60 4	0	 
+Info	18	64 4	0	 
+Info	19	67 4	0	 
+Info	20	68 3	0	 
+Info	21	93 31	0	 
+Info	22	95 32	0	 
+Info	23	104 31	0	 
+Info	24	103 32	0	 
+Info	25	107 33	0	 
+Info	26	97 33	0	 
+Info	27	113 32	0	 
+Info	28	112 31	0	 
+Info	29	101 3	0	 
+Info	30	105 4	0	 
+--------------------------------------------------------------------------------------------
+Signale	Nr.	Gleis	Richtu.	Ausgang	Bez.
+Signal	1	30 1	False	1	0 0 0	
+Signal	2	7 2	False	2	0 0 0	
+Signal	3	29 1	False	3	0 0 0	
+Signal	4	31 12	True	4	0 0 0	
+Signal	5	33 2	False	5	0 0 0	
+Signal	6	91 1	False	6	0 0 0	
+Signal	7	40 2	False	7	0 0 0	
+Signal	8	46 1	False	8	0 0 0	
+Signal	9	46 15	True	9	0 0 0	
+Signal	10	118 4	True	10	0 0 0	
+Signal	11	13 3	True	11	0 0 0	
+Signal	12	47 1	False	12	0 0 0	
+Signal	13	47 5	True	13	0 0 0	
+Signal	14	54 1	False	14	0 0 0	
+Signal	15	55 2	False	15	0 0 0	
+Signal	16	59 1	False	16	0 0 0	
+Signal	17	60 2	False	17	0 0 0	
+Signal	18	64 2	False	18	0 0 0	
+Signal	19	67 2	False	19	0 0 0	
+Signal	20	68 1	False	20	0 0 0	
+Signal	21	121 11	True	21	0 0 0	
+Signal	22	123 2	False	22	0 0 0	
+Signal	23	126 2	False	23	0 0 0	
+Signal	24	130 2	False	24	0 0 0	
+Signal	25	132 1	False	25	0 0 0	
+Signal	26	134 2	False	26	0 0 0	
+Signal	27	138 2	False	27	0 0 0	
+Signal	28	137 1	False	28	0 0 0	
+Signal	29	101 1	False	29	0 0 0	
+Signal	30	105 2	False	30	0 0 0	
+Signal	31	27 1	False	0	0 0 0	
+Signal	32	28 7	True	0	0 0 0	
+--------------------------------------------------------------------------------------------
+HStelln	Nr.	InfFeld	Bez
+--------------------------------------------------------------------------------------------
+Fahrstraßen	Nr.	Start	Ziel
+FahrstrasseV	1	7	8	False	False
+ BefehlStart	False_0 0 0
+ BefehlZiel	False_0 0 0
+ KnotenListe	38
+FahrstrasseV	2	9	3	False	False
+ BefehlStart	False_0 0 0
+ BefehlZiel	False_0 0 0
+ KnotenListe	38	29
+--------------------------------------------------------------------------------------------
+Züge	Nr.	Signal	Lok	Typ	Geschw	Bez
+Zug	1	1	BR03	P		DoppelstockA
+Zug	2	2	BR03	G		DoppelstockQ
+Zug	3	3	BR03	ICE		DoppelstockW
+Zug	4	4	BR03	D		DoppelstockE
+Zug	5	5	BR03	P		DoppelstockR
+Zug	6	6	BR03	P		DoppelstockT
+Zug	7	7	BR03	P		DoppelstockZ
+Zug	8	8	BR03	P		DoppelstockZI
+Zug	9	9	BR03	P		DoppelstockU
+Zug	10	10	BR03	P		DoppelstockI
+Zug	11	11	BR03	P		DoppelstockO
+Zug	12	12	BR03	P		DoppelstockP
+Zug	13	13	BR03	P		DoppelstockÜ
+Zug	14	14	BR03	P		DoppelstockA
+Zug	15	15	BR03	P		DoppelstockS
+Zug	16	16	BR03	P		Doppelstock
+Zug	17	17	BR03	P		Doppelstock
+Zug	18	18	BR03	P		Doppelstock
+Zug	19	19	BR03	P		Doppelstock
+Zug	20	20	BR03	P		Doppelstock
+Zug	21	21	BR03	P		Doppelstock
+Zug	22	22	BR03	P		Doppelstock
+Zug	23	23	BR03	P		Doppelstock
+Zug	24	24	BR03	P		Doppelstock
+Zug	25	25	BR03	P		Doppelstock
+Zug	26	26	BR03	P		Doppelstock
+Zug	27	27	BR03	P		Doppelstock
+Zug	28	28	BR03	P		Doppelstock
+Zug	29	29	BR03	P		Doppelstock
+Zug	30	30	BR03	P		Doppelstock

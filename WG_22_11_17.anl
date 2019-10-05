@@ -1,0 +1,921 @@
+﻿--------------------------------------------------------------------------------------------
+Arduinos	Nr.	LageX	LageY
+--------------------------------------------------------------------------------------------
+FahrReg	Nr.	LageX	LageY	Farbe	Bez
+--------------------------------------------------------------------------------------------
+Knoten	Nr.	LageX	LageY
+Knot	1	3	5
+Knot	2	1	7
+Knot	3	10	5
+Knot	4	11	4
+Knot	5	4	4
+Knot	6	13	2
+Knot	7	14	1
+Knot	8	19	1
+Knot	9	19	2
+Knot	10	16	5
+Knot	11	19	4
+Knot	12	4	12
+Knot	13	3	13
+Knot	14	5	13
+Knot	15	4	14
+Knot	16	3	16
+Knot	17	4	16
+Knot	18	9	12
+Knot	19	10	13
+Knot	20	11	13
+Knot	21	12	12
+Knot	22	13	13
+Knot	23	14	14
+Knot	24	13	12
+Knot	25	14	11
+Knot	26	8	11
+Knot	27	18	12
+Knot	28	19	11
+Knot	29	18	13
+Knot	30	18	14
+Knot	31	24	11
+Knot	32	29	11
+Knot	33	28	12
+Knot	34	23	12
+Knot	35	31	11
+Knot	36	30	10
+Knot	37	23	14
+Knot	38	29	14
+Knot	39	30	15
+Knot	40	31	16
+Knot	41	31	14
+Knot	42	32	13
+Knot	43	23	13
+Knot	44	36	16
+Knot	45	36	15
+Knot	46	37	14
+Knot	47	38	9
+Knot	48	28	8
+Knot	49	26	8
+Knot	50	28	10
+Knot	51	25	7
+Knot	52	31	9
+Knot	53	33	9
+Knot	54	32	11
+Knot	55	33	12
+Knot	56	35	12
+Knot	57	36	13
+Knot	58	42	12
+Knot	59	42	16
+Knot	60	42	15
+Knot	61	43	14
+Knot	62	42	13
+Knot	63	47	12
+Knot	64	52	12
+Knot	65	47	16
+Knot	66	48	15
+Knot	67	55	16
+Knot	68	49	14
+Knot	69	51	14
+Knot	70	52	13
+Knot	71	57	14
+Knot	72	47	13
+Knot	73	53	13
+Knot	74	54	12
+Knot	75	56	13
+Knot	76	55	12
+Knot	77	51	11
+Knot	78	48	11
+Knot	79	47	10
+Knot	80	51	10
+Knot	81	42	10
+Knot	82	38	11
+Knot	83	42	11
+Knot	84	3	29
+Knot	85	4	30
+Knot	86	3	37
+Knot	87	5	39
+Knot	88	4	28
+Knot	89	4	31
+Knot	90	5	32
+Knot	91	4	33
+Knot	92	6	33
+Knot	93	10	32
+Knot	94	20	32
+Knot	95	10	33
+Knot	96	20	33
+Knot	97	5	34
+Knot	98	10	34
+Knot	99	20	34
+Knot	100	6	35
+Knot	101	10	35
+Knot	102	20	35
+Knot	103	4	35
+Knot	104	5	36
+Knot	105	6	37
+Knot	106	10	36
+Knot	107	20	36
+Knot	108	10	37
+Knot	109	20	37
+Knot	110	5	29
+Knot	111	6	30
+Knot	112	7	31
+Knot	113	11	31
+Knot	114	11	30
+Knot	115	11	29
+Knot	116	11	39
+Knot	117	21	31
+Knot	118	22	32
+Knot	119	22	37
+Knot	120	20	39
+Knot	121	22	39
+Knot	122	23	38
+Knot	123	23	31
+Knot	124	23	28
+Knot	125	22	27
+Knot	126	22	30
+Knot	127	21	29
+Knot	128	20	28
+Knot	129	4	25
+Knot	130	5	26
+Knot	131	6	27
+Knot	132	7	28
+Knot	133	11	28
+Knot	134	11	27
+Knot	135	21	26
+Knot	136	11	26
+Knot	137	20	25
+Knot	138	12	25
+Knot	139	4	21
+Knot	140	5	22
+Knot	141	7	24
+Knot	142	8	25
+Knot	143	12	24
+Knot	144	23	25
+Knot	145	22	24
+Knot	146	21	23
+Knot	147	20	22
+Knot	148	12	23
+Knot	149	12	22
+Knot	150	7	22
+Knot	151	8	23
+Knot	152	1	15
+Knot	153	2	16
+Knot	154	5	19
+Knot	155	25	38
+Knot	156	26	39
+Knot	157	60	39
+Knot	158	66	39
+Knot	159	67	38
+Knot	160	60	38
+Knot	161	41	37
+Knot	162	42	38
+Knot	163	43	38
+Knot	164	45	38
+Knot	165	46	37
+Knot	166	47	36
+Knot	167	48	35
+Knot	168	49	34
+Knot	169	50	33
+Knot	170	60	33
+Knot	171	60	34
+Knot	172	60	35
+Knot	173	60	36
+Knot	174	60	37
+Knot	175	68	37
+Knot	176	69	36
+Knot	177	70	35
+Knot	178	67	35
+Knot	179	68	34
+Knot	180	69	33
+Knot	181	49	32
+Knot	182	60	32
+Knot	183	50	31
+Knot	184	60	31
+Knot	185	51	30
+Knot	186	56	30
+Knot	187	41	35
+Knot	188	52	29
+Knot	189	53	28
+Knot	190	54	27
+Knot	191	60	29
+Knot	192	56	28
+Knot	193	70	32
+Knot	194	67	32
+Knot	195	68	31
+Knot	196	69	30
+Knot	197	70	29
+Knot	198	67	29
+Knot	199	56	27
+Knot	200	68	28
+Knot	201	69	27
+Knot	202	70	26
+Knot	203	46	30
+Knot	204	53	25
+Knot	205	58	25
+Knot	206	63	25
+Knot	207	64	24
+Knot	208	65	23
+Knot	209	58	24
+Knot	210	59	23
+Knot	211	55	23
+Knot	212	54	24
+Knot	213	66	23
+Knot	214	67	22
+Knot	215	54	22
+Knot	216	68	23
+Knot	217	69	23
+Knot	218	70	22
+Knot	219	68	12
+Knot	220	70	14
+Knot	221	68	22
+Knot	222	69	21
+Knot	223	69	17
+Knot	224	67	13
+Knot	225	69	15
+Knot	226	48	26
+Knot	227	47	27
+Knot	228	46	28
+Knot	229	45	29
+Knot	230	44	30
+Knot	231	43	31
+Knot	232	42	32
+Knot	233	41	33
+Knot	234	40	34
+Knot	235	39	35
+Knot	236	48	25
+Knot	237	47	24
+Knot	238	46	24
+Knot	239	25	24
+Knot	240	20	19
+Knot	241	19	19
+Knot	242	37	28
+Knot	243	33	28
+Knot	244	32	29
+Knot	245	31	30
+Knot	246	30	31
+Knot	247	36	29
+Knot	248	35	30
+Knot	249	34	31
+Knot	250	33	32
+Knot	251	29	32
+Knot	252	32	33
+Knot	253	28	33
+Knot	254	27	34
+Knot	255	26	35
+Knot	256	30	35
+Knot	257	31	34
+Knot	258	25	36
+Knot	259	56	11
+Knot	260	56	10
+Knot	261	27	7
+Knot	262	24	4
+Knot	263	23	5
+Knot	264	27	5
+Knot	265	24	2
+Knot	266	25	1
+Knot	267	27	1
+Knot	268	27	3
+Knot	269	32	10
+Knot	270	34	10
+Knot	271	30	1
+Knot	272	28	2
+Knot	273	29	2
+Knot	274	29	3
+Knot	275	32	8
+Knot	276	32	5
+Knot	277	34	5
+Knot	278	39	5
+Knot	279	33	4
+Knot	280	29	4
+Knot	281	28	5
+Knot	282	30	5
+Knot	283	29	6
+Knot	284	31	5
+Knot	285	31	7
+Knot	286	33	3
+Knot	287	36	3
+Knot	288	33	2
+Knot	289	34	1
+Knot	290	62	14
+Knot	291	68	18
+Knot	292	56	18
+Knot	293	67	19
+Knot	294	56	19
+Knot	295	66	20
+Knot	296	56	20
+Knot	297	52	18
+Knot	298	51	19
+Knot	299	50	20
+Knot	300	6	20
+Knot	301	18	20
+Knot	302	21	19
+Knot	303	22	19
+Knot	304	32	22
+Knot	305	33	21
+Knot	306	33	20
+Knot	307	30	17
+Knot	308	26	17
+Knot	309	23	17
+Knot	310	34	22
+Knot	311	45	22
+Knot	312	35	21
+Knot	313	46	21
+Knot	314	36	20
+Knot	315	47	20
+Knot	316	37	19
+Knot	317	48	19
+Knot	318	25	22
+--------------------------------------------------------------------------------------------
+Gleise	Nr.	StartKn	EndKn	Regler	Ausgang	Eingang	Bez
+Gleis	1	1 0	2 0	1	0 0 0	0 0 0	
+Gleis	2	1 2	3 0	1	0 0 0	0 0 0	
+Gleis	3	3 2	4 0	1	0 0 0	0 0 0	
+Gleis	4	4 1	5 0	1	0 0 0	0 0 0	
+Gleis	5	4 2	6 0	1	0 0 0	0 0 0	
+Gleis	6	6 2	7 0	1	0 0 0	0 0 0	
+Gleis	7	7 2	8 0	1	0 0 0	0 0 0	
+Gleis	8	6 3	9 0	1	0 0 0	0 0 0	
+Gleis	9	3 3	10 0	1	0 0 0	0 0 0	
+Gleis	10	4 3	11 0	1	0 0 0	0 0 0	
+Gleis	11	12 0	13 0	1	0 0 0	0 0 0	
+Gleis	12	14 0	15 0	1	0 0 0	0 0 0	
+Gleis	13	13 2	16 0	1	0 0 0	0 0 0	
+Gleis	14	15 2	17 0	1	0 0 0	0 0 0	
+Gleis	15	12 2	18 0	1	0 0 0	0 0 0	
+Gleis	16	18 2	19 0	1	0 0 0	0 0 0	
+Gleis	17	14 2	19 1	1	0 0 0	0 0 0	
+Gleis	18	19 2	20 0	1	0 0 0	0 0 0	
+Gleis	19	20 2	21 0	1	0 0 0	0 0 0	
+Gleis	20	18 3	21 1	1	0 0 0	0 0 0	
+Gleis	21	20 3	22 0	1	0 0 0	0 0 0	
+Gleis	22	22 2	23 0	1	0 0 0	0 0 0	
+Gleis	23	21 2	24 0	1	0 0 0	0 0 0	
+Gleis	24	24 2	25 0	1	0 0 0	0 0 0	
+Gleis	25	25 1	26 0	1	0 0 0	0 0 0	
+Gleis	26	24 3	27 0	1	0 0 0	0 0 0	
+Gleis	27	25 2	28 0	1	0 0 0	0 0 0	
+Gleis	28	22 3	29 0	1	0 0 0	0 0 0	
+Gleis	29	23 2	30 0	1	0 0 0	0 0 0	
+Gleis	30	28 2	31 0	1	0 0 0	0 0 0	
+Gleis	31	31 2	32 0	1	0 0 0	0 0 0	
+Gleis	32	32 1	33 0	1	0 0 0	0 0 0	
+Gleis	33	33 2	34 0	1	0 0 0	0 0 0	
+Gleis	34	34 2	27 2	1	0 0 0	0 0 0	
+Gleis	35	32 2	35 0	1	0 0 0	0 0 0	
+Gleis	36	35 1	36 0	1	0 0 0	0 0 0	
+Gleis	37	30 2	37 0	1	0 0 0	0 0 0	
+Gleis	38	37 2	38 0	1	0 0 0	0 0 0	
+Gleis	39	38 2	39 0	1	0 0 0	0 0 0	
+Gleis	40	39 2	40 0	1	0 0 0	0 0 0	
+Gleis	41	38 3	41 0	1	0 0 0	0 0 0	
+Gleis	42	41 2	42 0	1	0 0 0	0 0 0	
+Gleis	43	29 2	43 0	1	0 0 0	0 0 0	
+Gleis	44	43 2	42 1	1	0 0 0	0 0 0	
+Gleis	45	40 2	44 0	1	0 0 0	0 0 0	
+Gleis	46	39 3	45 0	1	0 0 0	0 0 0	
+Gleis	47	41 3	46 0	1	0 0 0	0 0 0	
+Gleis	48	53 2	47 0	1	0 0 0	0 0 0	
+Gleis	49	36 2	48 0	1	0 0 0	0 0 0	
+Gleis	50	48 2	49 0	1	0 0 0	0 0 0	
+Gleis	51	16 2	84 0	1	0 0 0	0 0 0	
+Gleis	52	49 1	50 0	1	0 0 0	0 0 0	
+Gleis	53	49 2	51 0	1	0 0 0	0 0 0	
+Gleis	54	267 2	271 0	1	0 0 0	0 0 0	
+Gleis	55	35 2	54 0	1	0 0 0	0 0 0	
+Gleis	56	54 2	55 0	1	0 0 0	0 0 0	
+Gleis	57	33 1	55 1	1	0 0 0	0 0 0	
+Gleis	58	55 2	56 0	1	0 0 0	0 0 0	
+Gleis	59	56 2	57 0	1	0 0 0	0 0 0	
+Gleis	60	42 2	57 1	1	0 0 0	0 0 0	
+Gleis	61	56 3	58 0	1	0 0 0	0 0 0	
+Gleis	62	44 2	59 0	1	0 0 0	0 0 0	
+Gleis	63	45 2	60 0	1	0 0 0	0 0 0	
+Gleis	64	46 2	61 0	1	0 0 0	0 0 0	
+Gleis	65	57 2	62 0	1	0 0 0	0 0 0	
+Gleis	66	58 2	63 0	1	0 0 0	0 0 0	
+Gleis	67	63 2	64 0	1	0 0 0	0 0 0	2110
+Gleis	68	59 2	65 0	1	0 0 0	0 0 0	
+Gleis	69	65 2	66 0	1	0 0 0	0 0 0	2105
+Gleis	70	65 3	67 0	1	6 1 2	0 0 0	2101
+Gleis	71	60 2	66 1	1	0 0 0	0 0 0	
+Gleis	72	66 2	68 0	1	0 0 0	0 0 0	2105
+Gleis	73	68 1	61 2	1	0 0 0	0 0 0	
+Gleis	74	68 2	69 0	1	0 0 0	0 0 0	2104
+Gleis	75	69 2	70 0	1	0 0 0	0 0 0	2105
+Gleis	76	69 3	71 0	1	6 1 4	0 0 0	2106
+Gleis	77	62 2	72 0	1	6 2 15	0 0 0	2110
+Gleis	78	72 2	70 1	1	6 2 15	0 0 0	2110
+Gleis	79	70 2	73 0	1	0 0 0	0 0 0	
+Gleis	80	73 2	74 0	1	0 0 0	0 0 0	
+Gleis	81	73 3	75 0	1	0 0 0	0 0 0	
+Gleis	82	75 1	76 0	1	0 0 0	0 0 0	
+Gleis	83	76 2	74 2	1	0 0 0	0 0 0	
+Gleis	84	74 1	64 2	1	0 0 0	0 0 0	
+Gleis	85	64 1	77 0	1	0 0 0	0 0 0	
+Gleis	86	77 2	78 0	1	6 1 0	0 0 0	2111
+Gleis	87	78 2	79 0	1	0 0 0	0 0 0	
+Gleis	88	79 1	80 0	1	6 1 3	0 0 0	2114
+Gleis	89	79 2	81 0	1	0 0 0	0 0 0	
+Gleis	90	52 1	269 0	1	0 0 0	0 0 0	
+Gleis	91	54 3	82 0	1	0 0 0	0 0 0	
+Gleis	92	78 3	83 0	1	0 0 0	0 0 0	
+Gleis	93	82 2	83 2	1	0 0 0	0 0 0	
+Gleis	94	84 2	85 0	1	0 0 0	0 0 0	
+Gleis	95	84 3	86 0	1	0 0 0	0 0 0	
+Gleis	96	86 2	87 0	1	0 0 0	0 0 0	
+Gleis	97	85 1	88 0	1	0 0 0	0 0 0	
+Gleis	98	85 2	89 0	1	0 0 0	0 0 0	
+Gleis	99	89 2	90 0	1	0 0 0	0 0 0	
+Gleis	100	89 3	91 0	1	0 0 0	0 0 0	
+Gleis	101	90 2	92 0	1	0 0 0	0 0 0	
+Gleis	102	90 3	93 0	1	0 0 0	0 0 0	
+Gleis	103	93 2	94 0	1	0 0 0	0 0 0	
+Gleis	104	92 2	95 0	1	0 0 0	0 0 0	
+Gleis	105	95 2	96 0	1	0 0 0	0 0 0	
+Gleis	106	91 2	97 0	1	0 0 0	0 0 0	
+Gleis	107	97 2	98 0	1	0 0 0	0 0 0	
+Gleis	108	98 2	99 0	1	0 0 0	0 0 0	
+Gleis	109	97 3	100 0	1	0 0 0	0 0 0	
+Gleis	110	100 2	101 0	1	0 0 0	0 0 0	
+Gleis	111	101 2	102 0	1	0 0 0	0 0 0	
+Gleis	112	91 3	103 0	1	0 0 0	0 0 0	
+Gleis	113	103 2	104 0	1	0 0 0	0 0 0	
+Gleis	114	104 2	105 0	1	0 0 0	0 0 0	
+Gleis	115	104 3	106 0	1	0 0 0	0 0 0	
+Gleis	116	106 2	107 0	1	0 0 0	0 0 0	
+Gleis	117	105 2	108 0	1	0 0 0	0 0 0	
+Gleis	118	108 2	109 0	1	0 0 0	0 0 0	
+Gleis	119	88 1	110 0	1	0 0 0	0 0 0	
+Gleis	120	110 2	111 0	1	0 0 0	0 0 0	
+Gleis	121	111 2	112 0	1	0 0 0	0 0 0	
+Gleis	122	112 2	113 0	1	0 0 0	0 0 0	
+Gleis	123	111 3	114 0	1	0 0 0	0 0 0	
+Gleis	124	110 3	115 0	1	0 0 0	0 0 0	
+Gleis	125	87 2	116 0	1	0 0 0	0 0 0	
+Gleis	126	113 2	117 0	1	0 0 0	0 0 0	
+Gleis	127	117 2	118 0	1	0 0 0	0 0 0	
+Gleis	128	118 2	119 0	1	0 0 0	0 0 0	
+Gleis	129	119 2	120 0	1	0 0 0	0 0 0	
+Gleis	130	120 2	116 2	1	0 0 0	0 0 0	
+Gleis	131	120 1	121 0	1	0 0 0	0 0 0	
+Gleis	132	121 2	122 0	1	0 0 0	0 0 0	
+Gleis	133	122 2	123 0	1	0 0 0	0 0 0	
+Gleis	134	123 2	124 0	1	0 0 0	0 0 0	
+Gleis	135	124 2	125 0	1	0 0 0	0 0 0	
+Gleis	136	123 3	126 0	1	0 0 0	0 0 0	
+Gleis	137	126 2	114 2	1	0 0 0	0 0 0	
+Gleis	138	126 3	127 0	1	0 0 0	0 0 0	
+Gleis	139	127 2	128 0	1	0 0 0	0 0 0	
+Gleis	140	127 3	115 2	1	0 0 0	0 0 0	
+Gleis	141	88 2	129 0	1	0 0 0	0 0 0	
+Gleis	142	129 1	130 0	1	0 0 0	0 0 0	
+Gleis	143	130 2	131 0	1	0 0 0	0 0 0	
+Gleis	144	131 2	132 0	1	0 0 0	0 0 0	
+Gleis	145	132 2	133 0	1	0 0 0	0 0 0	
+Gleis	146	133 2	128 2	1	0 0 0	0 0 0	
+Gleis	147	131 3	134 0	1	0 0 0	0 0 0	
+Gleis	148	125 2	134 2	1	0 0 0	0 0 0	
+Gleis	149	125 3	135 0	1	0 0 0	0 0 0	
+Gleis	150	135 2	136 0	1	0 0 0	0 0 0	
+Gleis	151	136 2	130 3	1	0 0 0	0 0 0	
+Gleis	152	135 3	137 0	1	0 0 0	0 0 0	
+Gleis	153	137 2	138 0	1	0 0 0	0 0 0	
+Gleis	154	129 2	139 0	1	0 0 0	0 0 0	
+Gleis	155	139 1	140 0	1	0 0 0	0 0 0	
+Gleis	156	140 2	141 0	1	0 0 0	0 0 0	
+Gleis	157	141 2	142 0	1	0 0 0	0 0 0	
+Gleis	158	142 2	138 2	1	0 0 0	0 0 0	
+Gleis	159	141 3	143 0	1	0 0 0	0 0 0	
+Gleis	160	124 3	144 0	1	0 0 0	0 0 0	
+Gleis	161	144 2	145 0	1	0 0 0	0 0 0	
+Gleis	162	145 2	143 2	1	0 0 0	0 0 0	
+Gleis	163	145 3	146 0	1	0 0 0	0 0 0	
+Gleis	164	146 2	147 0	1	0 0 0	0 0 0	
+Gleis	165	146 3	148 0	1	0 0 0	0 0 0	
+Gleis	166	147 2	149 0	1	0 0 0	0 0 0	
+Gleis	167	140 3	150 0	1	0 0 0	0 0 0	
+Gleis	168	150 2	151 0	1	0 0 0	0 0 0	
+Gleis	169	151 2	148 2	1	0 0 0	0 0 0	
+Gleis	170	150 3	149 2	1	0 0 0	0 0 0	
+Gleis	171	139 2	17 2	1	0 0 0	0 0 0	
+Gleis	172	2 2	152 0	1	0 0 0	0 0 0	
+Gleis	173	152 2	153 0	1	0 0 0	0 0 0	
+Gleis	174	153 2	154 0	1	0 0 0	0 0 0	
+Gleis	175	155 0	156 0	1	0 0 0	0 0 0	
+Gleis	176	156 2	157 0	1	0 0 0	0 0 0	
+Gleis	177	157 2	158 0	1	0 0 0	0 0 0	
+Gleis	178	158 2	159 0	1	0 0 0	0 0 0	
+Gleis	179	159 1	160 0	1	0 0 0	0 0 0	
+Gleis	180	161 0	162 0	1	0 0 0	0 0 0	
+Gleis	181	162 2	163 0	1	0 0 0	0 0 0	
+Gleis	182	163 2	164 0	1	0 0 0	0 0 0	
+Gleis	183	164 2	165 0	1	0 0 0	0 0 0	
+Gleis	184	164 3	160 2	1	0 0 0	0 0 0	
+Gleis	185	165 2	166 0	1	0 0 0	0 0 0	
+Gleis	186	166 2	167 0	1	0 0 0	0 0 0	
+Gleis	187	167 2	168 0	1	0 0 0	0 0 0	
+Gleis	188	168 2	169 0	1	0 0 0	0 0 0	
+Gleis	189	169 2	170 0	1	0 0 0	0 0 0	
+Gleis	190	168 3	171 0	1	0 0 0	0 0 0	
+Gleis	191	167 3	172 0	1	0 0 0	0 0 0	
+Gleis	192	166 3	173 0	1	0 0 0	0 0 0	
+Gleis	193	165 3	174 0	1	0 0 0	0 0 0	
+Gleis	194	174 2	175 0	1	0 0 0	0 0 0	
+Gleis	195	173 2	176 0	1	0 0 0	0 0 0	
+Gleis	196	175 1	159 2	1	0 0 0	0 0 0	
+Gleis	197	175 2	176 1	1	0 0 0	0 0 0	
+Gleis	198	176 2	177 0	1	0 0 0	0 0 0	
+Gleis	199	172 2	178 0	1	0 0 0	0 0 0	
+Gleis	200	178 2	179 0	1	0 0 0	0 0 0	
+Gleis	201	179 1	171 2	1	0 0 0	0 0 0	
+Gleis	202	170 2	180 0	1	0 0 0	0 0 0	
+Gleis	203	179 2	180 1	1	0 0 0	0 0 0	
+Gleis	204	163 3	181 0	1	0 0 0	0 0 0	
+Gleis	205	181 2	182 0	1	0 0 0	0 0 0	
+Gleis	206	181 3	183 0	1	0 0 0	0 0 0	
+Gleis	207	183 2	184 0	1	0 0 0	0 0 0	
+Gleis	208	183 3	185 0	1	0 0 0	0 0 0	
+Gleis	209	185 2	186 0	1	0 0 0	0 0 0	
+Gleis	210	161 2	187 0	1	0 0 0	0 0 0	
+Gleis	211	185 3	188 0	1	0 0 0	0 0 0	
+Gleis	212	188 2	189 0	1	0 0 0	0 0 0	
+Gleis	213	189 2	190 0	1	0 0 0	0 0 0	
+Gleis	214	188 3	191 0	1	0 0 0	0 0 0	
+Gleis	215	189 3	192 0	1	0 0 0	0 0 0	
+Gleis	216	180 2	193 0	1	0 0 0	0 0 0	
+Gleis	217	177 2	193 1	1	0 0 0	0 0 0	
+Gleis	218	182 2	194 0	1	0 0 0	0 0 0	
+Gleis	219	194 2	195 0	1	0 0 0	0 0 0	
+Gleis	220	195 2	196 0	1	0 0 0	0 0 0	
+Gleis	221	195 1	184 2	1	0 0 0	0 0 0	
+Gleis	222	196 1	186 2	1	0 0 0	0 0 0	
+Gleis	223	196 2	197 0	1	0 0 0	0 0 0	
+Gleis	224	193 2	197 1	1	0 0 0	0 0 0	
+Gleis	225	191 2	198 0	1	0 0 0	0 0 0	
+Gleis	226	190 2	199 0	1	0 0 0	0 0 0	
+Gleis	227	198 2	200 0	1	0 0 0	0 0 0	
+Gleis	228	200 1	192 2	1	0 0 0	0 0 0	
+Gleis	229	200 2	201 0	1	0 0 0	0 0 0	
+Gleis	230	201 1	199 2	1	0 0 0	0 0 0	
+Gleis	231	201 2	202 0	1	0 0 0	0 0 0	
+Gleis	232	197 2	202 1	1	0 0 0	0 0 0	
+Gleis	233	187 2	203 0	1	0 0 0	0 0 0	
+Gleis	234	204 0	205 0	1	0 0 0	0 0 0	
+Gleis	235	205 2	206 0	1	0 0 0	0 0 0	
+Gleis	236	206 2	207 0	1	0 0 0	0 0 0	
+Gleis	237	207 2	208 0	1	0 0 0	0 0 0	
+Gleis	238	207 1	209 0	1	0 0 0	0 0 0	
+Gleis	239	208 1	210 0	1	0 0 0	0 0 0	
+Gleis	240	210 2	211 0	1	0 0 0	0 0 0	
+Gleis	241	209 2	212 0	1	0 0 0	0 0 0	
+Gleis	242	208 2	213 0	1	0 0 0	0 0 0	
+Gleis	243	213 2	214 0	1	0 0 0	0 0 0	
+Gleis	244	203 2	215 0	1	0 0 0	0 0 0	
+Gleis	245	215 2	214 1	1	0 0 0	0 0 0	
+Gleis	246	213 3	216 0	1	0 0 0	0 0 0	
+Gleis	247	216 2	217 0	1	0 0 0	0 0 0	
+Gleis	248	217 2	218 0	1	0 0 0	0 0 0	
+Gleis	249	218 1	202 2	1	0 0 0	0 0 0	
+Gleis	250	76 1	219 0	1	0 0 0	0 0 0	1102
+Gleis	251	219 2	220 0	1	0 0 0	0 0 0	
+Gleis	252	220 2	218 2	1	0 0 0	0 0 0	
+Gleis	253	214 2	221 0	1	0 0 0	0 0 0	
+Gleis	254	221 2	222 0	1	0 0 0	0 0 0	
+Gleis	255	222 2	223 0	1	0 0 0	0 0 0	
+Gleis	256	75 2	224 0	1	0 0 0	0 0 0	
+Gleis	257	224 2	225 0	1	0 0 0	0 0 0	
+Gleis	258	225 2	223 2	1	0 0 0	0 0 0	
+Gleis	259	226 0	227 0	1	0 0 0	0 0 0	
+Gleis	260	227 2	228 0	1	0 0 0	0 0 0	
+Gleis	261	228 2	229 0	1	0 0 0	0 0 0	
+Gleis	262	229 2	230 0	1	0 0 0	0 0 0	
+Gleis	263	230 2	231 0	1	0 0 0	0 0 0	
+Gleis	264	231 2	232 0	1	0 0 0	0 0 0	
+Gleis	265	232 2	233 0	1	0 0 0	0 0 0	
+Gleis	266	233 2	234 0	1	0 0 0	0 0 0	
+Gleis	267	234 2	235 0	1	0 0 0	0 0 0	
+Gleis	268	226 2	236 0	1	0 0 0	0 0 0	
+Gleis	269	236 2	237 0	1	0 0 0	0 0 0	
+Gleis	270	237 2	238 0	1	0 0 0	0 0 0	
+Gleis	271	238 2	239 0	1	0 0 0	0 0 0	
+Gleis	272	239 2	240 0	1	0 0 0	0 0 0	
+Gleis	273	240 2	241 0	1	0 0 0	0 0 0	
+Gleis	274	241 2	154 2	1	0 0 0	0 0 0	
+Gleis	275	228 3	242 0	1	0 0 0	0 0 0	
+Gleis	276	242 2	243 0	1	0 0 0	0 0 0	
+Gleis	277	243 2	244 0	1	0 0 0	0 0 0	
+Gleis	278	244 2	245 0	1	0 0 0	0 0 0	
+Gleis	279	245 2	246 0	1	0 0 0	0 0 0	
+Gleis	280	229 3	247 0	1	0 0 0	0 0 0	
+Gleis	281	247 2	244 1	1	0 0 0	0 0 0	
+Gleis	282	245 1	248 0	1	0 0 0	0 0 0	
+Gleis	283	230 3	248 2	1	0 0 0	0 0 0	
+Gleis	284	231 3	249 0	1	0 0 0	0 0 0	
+Gleis	285	249 2	246 1	1	0 0 0	0 0 0	
+Gleis	286	232 3	250 0	1	0 0 0	0 0 0	
+Gleis	287	250 2	251 0	1	0 0 0	0 0 0	
+Gleis	288	251 1	246 2	1	0 0 0	0 0 0	
+Gleis	289	233 3	252 0	1	0 0 0	0 0 0	
+Gleis	290	252 2	253 0	1	0 0 0	0 0 0	
+Gleis	291	251 2	253 1	1	0 0 0	0 0 0	
+Gleis	292	253 2	254 0	1	0 0 0	0 0 0	
+Gleis	293	254 2	255 0	1	0 0 0	0 0 0	
+Gleis	294	235 2	256 0	1	0 0 0	0 0 0	
+Gleis	295	256 2	255 1	1	0 0 0	0 0 0	
+Gleis	296	234 3	257 0	1	0 0 0	0 0 0	
+Gleis	297	257 2	254 1	1	0 0 0	0 0 0	
+Gleis	298	77 1	259 0	1	0 0 0	0 0 0	
+Gleis	299	255 2	258 0	1	0 0 0	0 0 0	
+Gleis	300	258 2	155 2	1	0 0 0	0 0 0	
+Gleis	301	80 2	260 0	1	6 1 1	0 0 0	2115
+Gleis	302	48 3	261 0	1	0 0 0	0 0 0	
+Gleis	303	261 2	262 0	1	0 0 0	0 0 0	
+Gleis	304	51 2	263 0	1	0 0 0	0 0 0	
+Gleis	305	263 2	10 2	1	0 0 0	0 0 0	
+Gleis	306	262 2	11 2	1	0 0 0	0 0 0	
+Gleis	307	261 3	264 0	1	0 0 0	0 0 0	
+Gleis	308	264 2	265 0	1	0 0 0	0 0 0	
+Gleis	309	265 2	9 2	1	0 0 0	0 0 0	
+Gleis	310	8 2	266 0	1	0 0 0	0 0 0	
+Gleis	311	264 1	52 2	1	0 0 0	0 0 0	
+Gleis	312	266 2	267 0	1	0 0 0	0 0 0	
+Gleis	313	266 3	268 0	1	0 0 0	0 0 0	
+Gleis	314	269 2	270 0	1	0 0 0	0 0 0	
+Gleis	315	270 2	81 2	1	0 0 0	0 0 0	
+Gleis	316	36 1	269 1	1	0 0 0	0 0 0	
+Gleis	317	267 3	272 0	1	0 0 0	0 0 0	
+Gleis	318	272 2	273 0	1	0 0 0	0 0 0	
+Gleis	319	268 2	274 0	1	0 0 0	0 0 0	
+Gleis	320	53 3	270 1	1	0 0 0	0 0 0	
+Gleis	321	53 0	275 0	1	0 0 0	0 0 0	
+Gleis	322	275 2	276 0	1	0 0 0	0 0 0	
+Gleis	323	277 0	278 0	1	0 0 0	0 0 0	
+Gleis	324	277 2	279 0	1	0 0 0	0 0 0	
+Gleis	325	280 0	281 0	1	0 0 0	0 0 0	
+Gleis	326	282 0	283 0	1	0 0 0	0 0 0	
+Gleis	327	284 0	285 0	1	0 0 0	0 0 0	
+Gleis	328	286 0	287 0	1	0 0 0	0 0 0	
+Gleis	329	288 0	289 0	1	0 0 0	0 0 0	
+Gleis	330	71 2	290 0	1	6 1 5	0 0 0	2107
+Gleis	331	223 1	291 0	1	0 0 0	0 0 0	
+Gleis	332	291 2	292 0	1	0 0 0	0 0 0	
+Gleis	333	291 3	293 0	1	0 0 0	0 0 0	
+Gleis	334	293 2	294 0	1	0 0 0	0 0 0	
+Gleis	335	293 3	295 0	1	0 0 0	0 0 0	
+Gleis	336	295 2	296 0	1	0 0 0	0 0 0	
+Gleis	337	292 2	297 0	1	0 0 0	0 0 0	
+Gleis	338	294 2	298 0	1	0 0 0	0 0 0	
+Gleis	339	297 2	298 1	1	0 0 0	0 0 0	
+Gleis	340	298 2	299 0	1	0 0 0	0 0 0	
+Gleis	341	299 1	296 2	1	0 0 0	0 0 0	
+Gleis	342	299 2	238 1	1	0 0 0	0 0 0	
+Gleis	343	154 3	300 0	1	0 0 0	0 0 0	
+Gleis	344	300 2	301 0	1	0 0 0	0 0 0	
+Gleis	345	301 2	241 3	1	0 0 0	0 0 0	
+Gleis	346	240 1	302 0	1	0 0 0	0 0 0	
+Gleis	347	302 2	303 0	1	0 0 0	0 0 0	
+Gleis	348	303 2	318 0	1	0 0 0	0 0 0	
+Gleis	349	304 2	305 0	1	0 0 0	0 0 0	
+Gleis	350	305 2	306 0	1	0 0 0	0 0 0	
+Gleis	351	306 2	307 0	1	0 0 0	0 0 0	
+Gleis	352	307 2	308 0	1	0 0 0	0 0 0	
+Gleis	353	308 2	309 0	1	0 0 0	0 0 0	
+Gleis	354	309 2	302 3	1	0 0 0	0 0 0	
+Gleis	355	304 3	310 0	1	0 0 0	0 0 0	
+Gleis	356	310 2	311 0	1	0 0 0	0 0 0	
+Gleis	357	310 3	312 0	1	0 0 0	0 0 0	
+Gleis	358	312 2	313 0	1	0 0 0	0 0 0	
+Gleis	359	312 3	314 0	1	0 0 0	0 0 0	
+Gleis	360	314 2	315 0	1	0 0 0	0 0 0	
+Gleis	361	314 3	316 0	1	0 0 0	0 0 0	
+Gleis	362	316 2	317 0	1	0 0 0	0 0 0	
+Gleis	363	318 2	304 0	1	0 0 0	0 0 0	
+--------------------------------------------------------------------------------------------
+Weichen	Nr.	Knoten	Gru-Ste	Ausgang	Bez.
+Weiche	1	76 0	False	6 2 0	1205
+Weiche	2	75 0	False	6 2 0	1204
+Weiche	3	74 0	False	6 2 1	2209
+Weiche	4	73 1	False	6 2 1	2208
+Weiche	5	64 0	False	6 2 2	2210
+Weiche	6	77 0	False	6 2 2	2211
+Weiche	7	70 0	False	6 2 3	2205
+Weiche	8	69 1	False	6 2 3	2204
+Weiche	9	66 0	False	6 2 5	2202
+Weiche	10	68 0	False	6 2 4	2203
+Weiche	11	65 1	False	6 2 5	2201
+Weiche	12	78 1	False	6 2 7	2212
+Weiche	13	79 0	False	6 2 7	3208
+Weiche	14	57 0	False	8 2 0	3201
+Weiche	15	56 1	False	8 2 0	3202
+Weiche	16	55 0	False	8 2 1	3203
+Weiche	17	54 1	False	8 2 1	3204
+Weiche	18	42 0	False	0 0 0	
+Weiche	19	41 1	False	0 0 0	
+Weiche	20	39 1	False	0 0 0	
+Weiche	21	38 1	False	0 0 0	
+Weiche	31	3 1	False	0 0 0	
+Weiche	40	4 0	False	0 0 0	
+Weiche	41	4 1	False	0 0 0	
+Weiche	61	6 1	False	0 0 0	
+Weiche	181	18 1	False	0 0 0	
+Weiche	190	19 0	False	0 0 0	
+Weiche	201	20 1	False	0 0 0	
+Weiche	210	21 0	False	0 0 0	
+Weiche	221	22 1	False	0 0 0	
+Weiche	241	24 1	False	0 0 0	
+Weiche	250	25 0	False	0 0 0	
+Weiche	320	32 0	False	0 0 0	
+Weiche	330	33 0	False	0 0 0	
+Weiche	350	35 0	False	0 0 0	
+Weiche	360	36 0	False	0 0 0	
+Weiche	481	48 1	False	0 0 0	
+Weiche	490	49 0	False	0 0 0	
+Weiche	531	53 1	False	0 0 0	
+Weiche	841	84 1	False	0 0 0	
+Weiche	850	85 0	False	0 0 0	
+Weiche	880	88 0	False	0 0 0	
+Weiche	891	89 1	False	0 0 0	
+Weiche	901	90 1	False	0 0 0	
+Weiche	911	91 1	False	0 0 0	
+Weiche	971	97 1	False	0 0 0	
+Weiche	1041	104 1	False	0 0 0	
+Weiche	1101	110 1	False	0 0 0	
+Weiche	1111	111 1	False	0 0 0	
+Weiche	1200	120 0	False	0 0 0	
+Weiche	1231	123 1	False	0 0 0	
+Weiche	1241	124 1	False	0 0 0	
+Weiche	1251	125 1	False	0 0 0	
+Weiche	1261	126 1	False	0 0 0	
+Weiche	1271	127 1	False	0 0 0	
+Weiche	1290	129 0	False	0 0 0	
+Weiche	1301	130 1	False	0 0 0	
+Weiche	1311	131 1	False	0 0 0	
+Weiche	1351	135 1	False	0 0 0	
+Weiche	1390	139 0	False	0 0 0	
+Weiche	1401	140 1	False	0 0 0	
+Weiche	1411	141 1	False	0 0 0	
+Weiche	1451	145 1	False	0 0 0	
+Weiche	1461	146 1	False	0 0 0	
+Weiche	1501	150 1	False	0 0 0	
+Weiche	1541	154 1	False	0 0 0	
+Weiche	1590	159 0	False	0 0 0	
+Weiche	1631	163 1	False	0 0 0	
+Weiche	1641	164 1	False	0 0 0	
+Weiche	1651	165 1	False	0 0 0	
+Weiche	1661	166 1	False	0 0 0	
+Weiche	1671	167 1	False	0 0 0	
+Weiche	1681	168 1	False	0 0 0	
+Weiche	1750	175 0	False	0 0 0	
+Weiche	1760	176 0	False	0 0 0	
+Weiche	1790	179 0	False	0 0 0	
+Weiche	1800	180 0	False	0 0 0	
+Weiche	1811	181 1	False	0 0 0	
+Weiche	1831	183 1	False	0 0 0	
+Weiche	1851	185 1	False	0 0 0	
+Weiche	1881	188 1	False	0 0 0	
+Weiche	1891	189 1	False	0 0 0	
+Weiche	1930	193 0	False	0 0 0	
+Weiche	1950	195 0	False	0 0 0	
+Weiche	1960	196 0	False	0 0 0	
+Weiche	1970	197 0	False	0 0 0	
+Weiche	2000	200 0	False	0 0 0	
+Weiche	2010	201 0	False	0 0 0	
+Weiche	2020	202 0	False	0 0 0	
+Weiche	2070	207 0	False	0 0 0	
+Weiche	2080	208 0	False	0 0 0	
+Weiche	2131	213 1	False	0 0 0	
+Weiche	2140	214 0	False	0 0 0	
+Weiche	2180	218 0	False	0 0 0	
+Weiche	2230	223 0	False	0 0 0	
+Weiche	2281	228 1	False	0 0 0	
+Weiche	2291	229 1	False	0 0 0	
+Weiche	2301	230 1	False	0 0 0	
+Weiche	2311	231 1	False	0 0 0	
+Weiche	2321	232 1	False	0 0 0	
+Weiche	2331	233 1	False	0 0 0	
+Weiche	2341	234 1	False	0 0 0	
+Weiche	2380	238 0	False	0 0 0	
+Weiche	2400	240 0	False	0 0 0	
+Weiche	2411	241 1	False	0 0 0	
+Weiche	2440	244 0	False	0 0 0	
+Weiche	2450	245 0	False	0 0 0	
+Weiche	2460	246 0	False	0 0 0	
+Weiche	2510	251 0	False	0 0 0	
+Weiche	2530	253 0	False	0 0 0	
+Weiche	2540	254 0	False	0 0 0	
+Weiche	2550	255 0	False	0 0 0	
+Weiche	2611	261 1	False	0 0 0	
+Weiche	2640	264 0	False	0 0 0	
+Weiche	2661	266 1	False	0 0 0	
+Weiche	2671	267 1	False	0 0 0	
+Weiche	2690	269 0	False	0 0 0	
+Weiche	2700	270 0	False	0 0 0	
+Weiche	2911	291 1	False	0 0 0	
+Weiche	2931	293 1	False	0 0 0	
+Weiche	2980	298 0	False	0 0 0	
+Weiche	2990	299 0	False	0 0 0	
+Weiche	3021	302 1	False	0 0 0	
+Weiche	3041	304 1	False	0 0 0	
+Weiche	3101	310 1	False	0 0 0	
+Weiche	3121	312 1	False	0 0 0	
+Weiche	3141	314 1	False	0 0 0	
+--------------------------------------------------------------------------------------------
+GleisSchalter	Nr.	Gleis	Bez.
+Schalter	1	170 3	
+Schalter	2	169 2	
+Schalter	3	159 3	
+Schalter	4	158 2	
+Schalter	5	104 2	
+Schalter	6	102 3	
+Schalter	7	107 3	
+Schalter	8	110 2	
+Schalter	9	115 3	
+Schalter	10	117 2	
+Schalter	11	122 2	
+Schalter	12	123 3	
+Schalter	13	124 4	
+Schalter	14	145 2	
+Schalter	15	147 3	
+Schalter	16	151 4	
+Schalter	17	118 4	
+Schalter	18	116 4	
+Schalter	19	111 4	
+Schalter	20	108 4	
+Schalter	21	105 4	
+Schalter	22	103 4	
+Schalter	23	126 3	
+Schalter	24	137 4	
+Schalter	25	140 3	
+Schalter	26	146 7	
+Schalter	27	148 4	
+Schalter	28	150 3	
+Schalter	29	153 2	
+Schalter	30	162 3	
+Schalter	31	165 2	
+Schalter	32	166 1	
+Schalter	33	177 4	
+Schalter	34	179 3	
+Schalter	35	194 2	
+Schalter	36	195 2	
+Schalter	37	199 2	
+Schalter	38	201 6	
+Schalter	39	202 5	
+Schalter	40	218 5	
+Schalter	41	221 3	
+Schalter	42	222 4	
+Schalter	43	225 5	
+Schalter	44	228 3	
+Schalter	45	230 4	
+Schalter	46	226 1	
+Schalter	47	215 2	
+Schalter	48	214 3	
+Schalter	49	209 4	
+Schalter	50	207 5	
+Schalter	51	205 6	
+Schalter	52	189 5	
+Schalter	53	190 6	
+Schalter	54	191 7	
+Schalter	55	192 8	
+Schalter	56	193 9	
+Schalter	57	184 10	
+Schalter	58	176 15	
+--------------------------------------------------------------------------------------------
+FSSer	Nr.	Gleis	Regler1	Regler2	Ausgang	Bez.
+--------------------------------------------------------------------------------------------
+Entkuppler_	Nr.	Gleis	Ausgang	Bez.
+--------------------------------------------------------------------------------------------
+Infos	Nr.	Gleis	Lage	Bez
+--------------------------------------------------------------------------------------------
+Signale	Nr.	Gleis	Richtu.	InfoF	Ausgang	Bez.
+Signal	1	177 5	True	0	0 0 0	
+Signal	2	179 2	False	0	0 0 0	
+Signal	3	194 6	True	0	0 0 0	
+Signal	4	195 6	True	0	0 0 0	
+Signal	5	199 6	True	0	0 0 0	
+Signal	6	201 2	False	0	0 0 0	
+Signal	7	202 6	True	0	0 0 0	
+Signal	8	218 6	True	0	0 0 0	
+Signal	9	221 2	False	0	0 0 0	
+Signal	10	222 3	False	0	0 0 0	
+Signal	11	225 6	True	0	0 0 0	
+Signal	12	228 2	False	0	0 0 0	
+Signal	13	230 3	False	0	0 0 0	
+Signal	14	170 2	False	0	0 0 0	
+Signal	15	169 1	False	0	0 0 0	
+Signal	16	159 2	False	0	0 0 0	
+Signal	17	158 1	False	0	0 0 0	
+Signal	18	151 5	True	0	0 0 0	
+Signal	19	147 2	False	0	0 0 0	
+Signal	20	145 1	False	0	0 0 0	
+Signal	21	124 3	False	0	0 0 0	
+Signal	22	123 2	False	0	0 0 0	
+Signal	23	122 1	False	0	0 0 0	
+Signal	24	102 2	False	0	0 0 0	
+Signal	25	104 1	False	0	0 0 0	
+Signal	26	107 2	False	0	0 0 0	
+Signal	27	110 1	False	0	0 0 0	
+Signal	28	115 2	False	0	0 0 0	
+Signal	29	117 1	False	0	0 0 0	
+--------------------------------------------------------------------------------------------
+HStelln	Nr.	InfFeld	Bez
+--------------------------------------------------------------------------------------------
+FahrstraßenN	Nr.	Start	Ziel
+--------------------------------------------------------------------------------------------
+Züge	Nr.	Signal	Lok	Typ	Geschw	Bez

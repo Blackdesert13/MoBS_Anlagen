@@ -1,0 +1,798 @@
+﻿--------------------------------------------------------------------------------------------
+Arduinos	Nr.	LageX	LageY
+MCSpeicher	1	10	10
+MCSpeicher	2	10	20
+MCSpeicher	3	10	30
+--------------------------------------------------------------------------------------------
+FahrReg	Nr.	LageX	LageY	Farbe	Bez
+Regler	1	4	3	Cyan	-16711681
+Regler	2	6	3	Fuchsia	-65281
+Regler	3	8	3	Gold	-10496
+Regler	4	10	3	CornflowerBlue	-10185235
+Regler	5	12	3	Chartreuse	-8388864
+--------------------------------------------------------------------------------------------
+Knoten	Nr.	LageX	LageY
+Knot	1	3	1
+Knot	2	1	3
+Knot	3	1	7
+Knot	4	3	9
+Knot	5	1	9
+Knot	6	2	10
+Knot	7	3	11
+Knot	8	22	10
+Knot	9	62	1
+Knot	10	21	2
+Knot	11	61	2
+Knot	12	63	4
+Knot	13	64	3
+Knot	14	63	16
+Knot	15	64	17
+Knot	16	64	16
+Knot	17	63	17
+Knot	18	20	3
+Knot	19	20	5
+Knot	20	21	6
+Knot	21	24	6
+Knot	22	26	4
+Knot	23	60	4
+Knot	24	61	5
+Knot	25	42	4
+Knot	26	41	5
+Knot	27	37	5
+Knot	28	29	5
+Knot	29	22	9
+Knot	30	22	11
+Knot	31	35	11
+Knot	32	36	10
+Knot	33	37	11
+Knot	34	40	14
+Knot	35	39	11
+Knot	36	43	15
+Knot	37	41	10
+Knot	38	40	9
+Knot	39	39	8
+Knot	40	9	8
+Knot	41	61	8
+Knot	42	60	9
+Knot	43	57	9
+Knot	44	49	18
+Knot	45	54	18
+Knot	46	55	19
+Knot	47	55	21
+Knot	48	54	22
+Knot	49	45	22
+Knot	50	8	15
+Knot	51	7	16
+Knot	52	13	15
+Knot	53	13	16
+Knot	54	5	18
+Knot	55	7	18
+Knot	56	8	17
+Knot	57	13	17
+Knot	58	13	18
+Knot	59	3	20
+Knot	60	5	20
+Knot	61	6	19
+Knot	62	13	19
+Knot	63	6	20
+Knot	64	7	21
+Knot	65	13	20
+Knot	66	13	21
+Knot	67	32	15
+Knot	68	33	16
+Knot	69	34	16
+Knot	70	33	17
+Knot	71	32	18
+Knot	72	37	16
+Knot	73	39	16
+Knot	74	34	19
+Knot	75	32	19
+Knot	76	31	20
+Knot	77	32	21
+Knot	78	1	22
+Knot	79	1	23
+Knot	80	2	24
+Knot	81	29	24
+Knot	82	21	24
+Knot	83	5	37
+Knot	84	37	37
+Knot	85	4	36
+Knot	86	37	36
+Knot	87	1	33
+Knot	88	1	29
+Knot	89	3	27
+Knot	90	10	27
+Knot	91	11	26
+Knot	92	17	26
+Knot	93	5	35
+Knot	94	4	34
+Knot	95	37	34
+Knot	96	37	35
+Knot	97	17	27
+Knot	98	3	33
+Knot	99	37	33
+Knot	100	2	32
+Knot	101	3	32
+Knot	102	4	31
+Knot	103	5	30
+Knot	104	37	30
+Knot	105	37	31
+Knot	106	37	32
+Knot	107	1	31
+Knot	108	63	24
+Knot	109	63	29
+Knot	110	64	22
+Knot	111	64	29
+Knot	112	49	37
+Knot	113	50	36
+Knot	114	51	36
+Knot	115	50	35
+Knot	116	53	36
+Knot	117	51	34
+Knot	118	49	34
+Knot	119	48	33
+Knot	120	49	32
+Knot	121	48	31
+Knot	122	47	30
+Knot	123	60	36
+Knot	124	64	32
+Knot	125	56	35
+Knot	126	59	35
+Knot	127	63	31
+Knot	128	54	33
+Knot	129	48	27
+Knot	130	54	31
+Knot	131	49	26
+Knot	132	17	23
+Knot	133	24	23
+Knot	134	63	8
+Knot	135	64	8
+Knot	136	4	10
+Knot	137	22	21
+--------------------------------------------------------------------------------------------
+Gleise	Nr.	StartKn	EndKn	Regler	Ausgang	Eingang	Bez
+Gleis	1	1 0	2 0	1	0 0 0	0 0 0	
+Gleis	2	2 2	3 0	1	0 0 0	0 0 0	
+Gleis	3	3 2	4 0	1	0 0 0	0 0 0	
+Gleis	4	3 3	5 0	1	0 0 0	0 0 0	
+Gleis	5	5 2	6 0	1	0 0 0	0 0 0	
+Gleis	6	6 2	7 0	-1	0 0 0	0 0 0	
+Gleis	7	4 3	136 0	-3	0 0 0	0 0 0	
+Gleis	8	1 2	9 0	1	0 0 0	0 0 0	
+Gleis	9	10 0	11 0	1	0 0 0	0 0 0	
+Gleis	10	11 2	12 0	1	0 0 0	0 0 0	
+Gleis	11	9 2	13 0	1	0 0 0	0 0 0	
+Gleis	12	134 2	14 0	-4	0 0 0	0 0 0	
+Gleis	13	110 0	15 2	-8	3 0 1	0 0 0	
+Gleis	14	16 1	17 0	-4	0 0 0	0 0 0	
+Gleis	15	17 1	14 2	-4	0 0 0	0 0 0	
+Gleis	16	16 0	15 0	-4	0 0 0	0 0 0	
+Gleis	17	15 1	14 3	-4	0 0 0	0 0 0	
+Gleis	18	10 2	18 0	1	0 0 0	0 0 0	
+Gleis	19	18 2	19 0	1	0 0 0	0 0 0	
+Gleis	20	19 2	20 0	1	0 0 0	0 0 0	
+Gleis	21	20 2	21 0	1	0 0 0	0 0 0	
+Gleis	22	21 2	22 0	1	0 0 0	0 0 0	
+Gleis	23	23 0	24 0	1	0 0 0	0 0 0	
+Gleis	24	23 2	25 0	1	0 0 0	0 0 0	
+Gleis	25	25 2	26 0	1	0 0 0	0 0 0	
+Gleis	26	25 3	22 2	1	0 0 0	0 0 0	
+Gleis	27	26 2	27 0	1	3 0 4	0 0 0	
+Gleis	28	27 2	28 0	1	3 0 15	0 0 0	
+Gleis	29	4 2	29 0	-2	2 1 12	0 0 0	
+Gleis	30	7 2	30 0	-1	2 1 8	0 0 0	
+Gleis	31	30 2	31 0	-1	2 1 11	0 0 0	
+Gleis	32	31 2	32 0	1	0 0 0	0 0 0	
+Gleis	33	32 1	8 2	-3	2 1 13	0 0 0	
+Gleis	34	31 3	33 0	-1	0 0 0	0 0 0	
+Gleis	35	33 2	34 0	-1	3 2 12	0 0 0	
+Gleis	36	33 3	35 0	-1	0 0 0	0 0 0	
+Gleis	37	35 3	36 0	-1	3 2 15	0 0 0	
+Gleis	38	32 2	37 0	-6	0 0 0	0 0 0	
+Gleis	39	37 1	38 0	-6	0 0 0	0 0 0	
+Gleis	40	38 2	29 2	-2	2 1 12	0 0 0	
+Gleis	41	38 3	39 0	1	0 0 0	0 0 0	
+Gleis	42	39 2	40 0	1	2 1 15	0 0 0	
+Gleis	43	24 2	41 0	1	0 0 0	0 0 0	
+Gleis	44	41 2	42 0	1	0 0 0	0 0 0	
+Gleis	45	42 2	43 0	1	0 0 0	0 0 0	
+Gleis	46	43 2	38 1	1	3 2 10	0 0 0	
+Gleis	47	37 2	44 0	-6	3 2 13	0 0 0	
+Gleis	48	44 2	45 0	2	0 0 0	0 0 0	
+Gleis	49	45 2	46 0	2	0 0 0	0 0 0	
+Gleis	50	46 2	47 0	2	0 0 0	0 0 0	
+Gleis	51	47 2	48 0	2	0 0 0	0 0 0	
+Gleis	52	48 2	49 0	2	0 0 0	0 0 0	
+Gleis	53	50 0	51 0	2	0 0 0	0 0 0	
+Gleis	54	50 2	52 0	2	2 0 14	0 0 0	
+Gleis	55	51 1	53 0	2	2 0 13	0 0 0	
+Gleis	56	51 2	54 0	2	0 0 0	0 0 0	
+Gleis	57	54 1	55 0	2	0 0 0	0 0 0	
+Gleis	58	55 2	56 0	2	0 0 0	0 0 0	
+Gleis	59	56 2	57 0	2	2 0 12	0 0 0	
+Gleis	60	55 3	58 0	2	2 0 0	0 0 0	
+Gleis	61	54 2	59 0	2	0 0 0	0 0 0	
+Gleis	62	59 1	60 0	2	0 0 0	0 0 0	
+Gleis	63	60 2	61 0	2	0 0 0	0 0 0	
+Gleis	64	61 2	62 0	2	2 0 1	0 0 0	
+Gleis	65	60 3	63 0	2	0 0 0	0 0 0	
+Gleis	66	63 2	64 0	2	0 0 0	0 0 0	
+Gleis	67	63 3	65 0	2	2 0 3	0 0 0	
+Gleis	68	64 2	66 0	2	2 1 7	0 0 0	
+Gleis	69	52 2	67 0	2	2 1 1	0 0 0	
+Gleis	70	67 2	68 0	2	0 0 0	0 0 0	
+Gleis	71	68 1	53 2	2	2 1 0	0 0 0	
+Gleis	72	68 2	69 0	2	0 0 0	0 0 0	
+Gleis	73	69 1	70 0	2	0 0 0	0 0 0	
+Gleis	74	70 2	71 0	2	0 0 0	0 0 0	
+Gleis	75	70 3	57 2	2	2 1 3	0 0 0	
+Gleis	76	71 2	58 2	2	2 1 2	0 0 0	
+Gleis	77	69 2	72 0	2	0 0 0	0 0 0	
+Gleis	78	72 2	73 0	2	0 0 0	0 0 0	
+Gleis	79	73 2	49 2	2	0 0 0	0 0 0	
+Gleis	80	72 1	74 0	2	0 0 0	0 0 0	
+Gleis	81	74 2	75 0	2	0 0 0	0 0 0	
+Gleis	82	75 2	76 0	2	0 0 0	0 0 0	
+Gleis	83	75 3	62 2	2	2 1 5	0 0 0	
+Gleis	84	76 2	65 2	2	2 1 4	0 0 0	
+Gleis	85	137 2	77 0	2	3 0 2	0 0 0	
+Gleis	86	74 3	77 2	2	0 0 0	0 0 0	
+Gleis	87	59 2	78 0	2	0 0 0	0 0 0	
+Gleis	88	78 2	79 0	2	0 0 0	0 0 0	
+Gleis	89	79 2	80 0	2	0 0 0	0 0 0	
+Gleis	90	77 1	81 0	2	0 0 0	0 0 0	
+Gleis	91	81 2	82 0	2	3 2 11	0 0 0	
+Gleis	92	82 2	80 2	2	2 0 15	0 0 0	
+Gleis	93	83 0	84 0	3	2 2 2	0 0 0	
+Gleis	94	83 2	85 0	3	0 0 0	0 0 0	
+Gleis	95	85 1	86 0	3	2 2 5	0 0 0	
+Gleis	96	85 2	87 0	3	0 0 0	0 0 0	
+Gleis	97	101 3	106 0	3	2 2 9	0 0 0	
+Gleis	98	88 2	89 0	3	0 0 0	0 0 0	
+Gleis	99	89 2	90 0	3	0 0 0	0 0 0	
+Gleis	100	90 2	91 0	3	0 0 0	0 0 0	
+Gleis	101	91 2	92 0	3	2 2 0	0 0 0	
+Gleis	102	93 0	94 0	3	0 0 0	0 0 0	
+Gleis	103	94 1	95 0	3	2 2 7	0 0 0	
+Gleis	104	93 2	96 0	3	2 2 4	0 0 0	
+Gleis	105	90 3	97 0	3	2 2 3	0 0 0	
+Gleis	106	94 2	98 0	3	0 0 0	0 0 0	
+Gleis	107	98 1	99 0	3	2 2 6	0 0 0	
+Gleis	108	98 2	100 0	3	0 0 0	0 0 0	
+Gleis	109	100 1	101 0	3	0 0 0	0 0 0	
+Gleis	110	101 2	102 0	3	0 0 0	0 0 0	
+Gleis	111	102 2	103 0	3	0 0 0	0 0 0	
+Gleis	112	103 2	104 0	3	2 2 11	0 0 0	
+Gleis	113	102 3	105 0	3	2 2 8	0 0 0	
+Gleis	114	100 2	107 0	3	0 0 0	0 0 0	
+Gleis	115	107 1	87 2	3	0 0 0	0 0 0	
+Gleis	116	88 0	107 2	3	0 0 0	0 0 0	
+Gleis	117	17 2	108 0	-7	2 0 8	0 0 0	
+Gleis	118	108 2	109 0	-7	3 0 12	0 0 0	
+Gleis	119	16 2	135 2	-5	0 0 0	0 0 0	
+Gleis	120	110 2	111 0	-8	3 0 0	0 0 0	
+Gleis	121	84 2	112 0	3	3 2 0	0 0 0	
+Gleis	122	112 2	113 0	3	0 0 0	0 0 0	
+Gleis	123	113 1	86 2	3	3 2 3	0 0 0	
+Gleis	124	114 0	115 0	3	0 0 0	0 0 0	
+Gleis	125	114 1	113 2	3	0 0 0	0 0 0	
+Gleis	126	115 2	96 2	3	3 0 3	0 0 0	
+Gleis	127	114 2	116 0	3	0 0 0	0 0 0	
+Gleis	128	116 1	117 0	3	0 0 0	0 0 0	
+Gleis	129	117 2	118 0	3	0 0 0	0 0 0	
+Gleis	130	118 2	95 2	3	3 2 1	0 0 0	
+Gleis	131	118 3	119 0	3	0 0 0	0 0 0	
+Gleis	132	119 2	99 2	3	3 2 2	0 0 0	
+Gleis	133	117 3	120 0	3	0 0 0	0 0 0	
+Gleis	134	120 2	106 2	3	3 2 5	0 0 0	
+Gleis	135	120 3	121 0	3	0 0 0	0 0 0	
+Gleis	136	121 2	122 0	3	0 0 0	0 0 0	
+Gleis	137	122 2	104 2	3	3 2 7	0 0 0	
+Gleis	138	121 3	105 2	3	3 2 4	0 0 0	
+Gleis	139	116 2	123 0	3	0 0 0	0 0 0	
+Gleis	140	123 2	124 0	3	0 0 0	0 0 0	
+Gleis	141	124 2	111 2	3	0 0 0	0 0 0	
+Gleis	142	125 0	126 0	3	0 0 0	0 0 0	
+Gleis	143	126 2	127 0	3	0 0 0	0 0 0	
+Gleis	144	127 2	109 2	3	0 0 0	0 0 0	
+Gleis	145	125 2	128 0	3	0 0 0	0 0 0	
+Gleis	146	128 2	129 0	3	0 0 0	0 0 0	
+Gleis	147	129 2	97 2	3	2 2 13	0 0 0	
+Gleis	148	128 3	130 0	3	0 0 0	0 0 0	
+Gleis	149	130 2	131 0	3	0 0 0	0 0 0	
+Gleis	150	131 2	92 2	3	2 2 10	0 0 0	
+Gleis	151	132 0	133 0	1	3 1 6	0 0 0	
+Gleis	152	13 2	135 0	4	0 0 0	0 0 0	
+Gleis	153	12 2	134 0	5	0 0 0	0 0 0	
+Gleis	154	136 2	8 0	-3	2 1 10	0 0 0	
+Gleis	155	66 2	137 0	2	2 0 2	0 0 0	
+--------------------------------------------------------------------------------------------
+Weichen	Nr.	Knoten	Gru-Ste	Ausgang	Bez.
+Weiche	31	3 1	False	1 2 12	
+Weiche	41	4 1	True	1 2 15	
+Weiche	141	14 1	False	3 1 14	
+Weiche	150	15 0	False	3 1 14	
+Weiche	160	16 0	False	3 1 14	
+Weiche	170	17 0	True	3 1 14	
+Weiche	251	25 1	False	3 1 12	
+Weiche	311	31 1	True	1 1 15	
+Weiche	320	32 0	True	1 1 14	
+Weiche	331	33 1	False	3 1 9	
+Weiche	370	37 0	True	3 1 10	
+Weiche	380	38 0	True	3 1 11	
+Weiche	381	38 1	True	3 1 8	
+Weiche	510	51 0	False	1 2 13	
+Weiche	540	54 0	True	1 2 11	
+Weiche	551	55 1	True	1 2 10	
+Weiche	590	59 0	False	1 2 8	
+Weiche	601	60 1	False	1 2 9	
+Weiche	631	63 1	True	1 2 14	
+Weiche	680	68 0	True	1 1 6	
+Weiche	690	69 0	False	1 1 13	
+Weiche	701	70 1	True	1 1 9	
+Weiche	720	72 0	False	1 1 12	
+Weiche	741	74 1	False	1 1 10	
+Weiche	751	75 1	True	1 1 8	
+Weiche	770	77 0	False	1 1 11	
+Weiche	850	85 0	False	1 2 5	
+Weiche	901	90 1	False	1 2 1	
+Weiche	940	94 0	False	1 2 4	
+Weiche	980	98 0	False	1 2 2	
+Weiche	1000	100 0	False	1 2 3	
+Weiche	1011	101 1	True	1 2 7	
+Weiche	1021	102 1	False	1 2 6	
+Weiche	1070	107 0	True	1 2 0	
+Weiche	1130	113 0	False	1 1 4	
+Weiche	1140	114 0	False	1 1 7	
+Weiche	1160	116 0	True	3 1 13	
+Weiche	1171	117 1	False	1 1 5	
+Weiche	1181	118 1	False	1 1 2	
+Weiche	1201	120 1	False	1 1 3	
+Weiche	1211	121 1	True	1 1 0	
+Weiche	1281	128 1	False	1 1 1	
+--------------------------------------------------------------------------------------------
+GleisSchalter	Nr.	Gleis	Bez.
+Schalter	1	30 3	
+Schalter	2	154 3	
+Schalter	3	29 3	
+Schalter	4	40 4	
+Schalter	5	33 4	
+Schalter	6	31 10	
+Schalter	7	68 2	
+Schalter	8	67 3	
+Schalter	9	64 3	
+Schalter	10	60 3	
+Schalter	11	59 2	
+Schalter	12	55 3	
+Schalter	13	54 2	
+Schalter	14	91 2	
+Schalter	15	137 2	
+Schalter	16	138 3	
+Schalter	17	134 4	
+Schalter	18	101 2	
+Schalter	19	105 3	
+Schalter	20	132 3	
+Schalter	21	130 4	
+Schalter	22	126 5	
+Schalter	23	123 5	
+Schalter	24	121 8	
+Schalter	25	28 3	
+Schalter	26	27 3	
+Schalter	27	112 8	
+Schalter	28	93 8	
+Schalter	29	95 9	
+Schalter	30	104 8	
+Schalter	31	103 9	
+Schalter	32	107 10	
+Schalter	33	97 10	
+Schalter	34	113 9	
+Schalter	35	42 16	
+Schalter	36	46 8	
+Schalter	37	150 12	
+Schalter	38	147 11	
+Schalter	39	69 12	
+Schalter	40	71 8	
+Schalter	41	75 8	
+Schalter	42	76 7	
+Schalter	43	83 7	
+Schalter	44	84 6	
+Schalter	45	92 12	
+Schalter	46	85 3	
+Schalter	47	35 2	
+Schalter	48	37 2	
+Schalter	49	47 3	
+Schalter	50	151 3	
+Schalter	51	118 1	
+Schalter	52	117 4	
+Schalter	53	120 3	
+Schalter	54	13 1	
+Schalter	55	155 5	
+--------------------------------------------------------------------------------------------
+FSSer	Nr.	Gleis	Regler1	Regler2	Ausgang	Bez.
+FSS	1	30 18	1	2	2 0 9
+FSS	2	29 18	1	2	2 0 11
+FSS	3	154 17	1	2	2 0 10
+FSS	4	12 1	4	5	3 1 7
+FSS	5	119 7	4	5	3 1 7
+FSS	6	47 4	1	2	2 0 7
+FSS	7	117 6	1	3	2 0 4
+FSS	8	120 1	1	3	2 0 5
+--------------------------------------------------------------------------------------------
+Entkuppler_	Nr.	Gleis	Ausgang	Bez.
+Entkuppler	1	30 2	3 1 2	
+Entkuppler	2	154 2	3 1 5	
+Entkuppler	3	33 3	0 0 0	
+Entkuppler	4	31 11	3 1 4	
+--------------------------------------------------------------------------------------------
+Infos	Nr.	Gleis	Lage	Bez
+Info	1	30 4	0	 
+Info	2	154 5	0	 
+Info	3	29 4	0	 
+Info	4	31 2	0	 
+Info	5	33 10	0	 
+Info	6	92 2	0	 
+Info	7	40 10	0	 
+Info	8	46 7	0	 
+Info	9	46 14	0	 
+Info	10	118 3	0	 
+Info	11	13 2	0	 
+Info	12	47 2	0	 
+Info	13	47 6	0	 
+Info	14	54 3	0	 
+Info	15	55 4	0	 
+Info	16	59 3	0	 
+Info	17	60 4	0	 
+Info	18	64 4	0	 
+Info	19	67 4	0	 
+Info	20	68 3	0	 
+Info	21	93 31	0	 
+Info	22	95 32	0	 
+Info	23	104 31	0	 
+Info	24	103 32	0	 
+Info	25	107 33	0	 
+Info	26	97 33	0	 
+Info	27	113 32	0	 
+Info	28	112 31	0	 
+Info	29	101 3	0	 
+Info	30	105 4	0	 
+Info	31	28 2	0	 
+--------------------------------------------------------------------------------------------
+Signale	Nr.	Gleis	Richtu.	InfoF	Ausgang	Bez.
+Signal	1	30 1	False	1	0 0 0	
+Signal	2	154 1	False	2	0 0 0	
+Signal	3	29 1	False	3	0 0 0	
+Signal	4	31 12	True	4	0 0 0	
+Signal	5	33 2	False	5	0 0 0	
+Signal	6	91 1	False	6	0 0 0	
+Signal	7	40 2	False	7	0 0 0	
+Signal	8	46 1	False	8	0 0 0	
+Signal	9	46 15	True	9	0 0 0	
+Signal	10	118 4	True	10	0 0 0	
+Signal	11	13 3	True	11	0 0 0	
+Signal	12	47 1	False	12	0 0 0	
+Signal	13	47 7	True	13	0 0 0	
+Signal	14	54 1	False	14	0 0 0	
+Signal	15	55 2	False	15	0 0 0	
+Signal	16	59 1	False	16	0 0 0	
+Signal	17	60 2	False	17	0 0 0	
+Signal	18	64 2	False	18	0 0 0	
+Signal	19	67 2	False	19	0 0 0	
+Signal	20	68 1	False	20	0 0 0	
+Signal	21	121 11	True	21	0 0 0	
+Signal	22	123 2	False	22	0 0 0	
+Signal	23	126 2	False	23	0 0 0	
+Signal	24	130 2	False	24	0 0 0	
+Signal	25	132 1	False	25	0 0 0	
+Signal	26	134 2	False	26	0 0 0	
+Signal	27	138 2	False	27	0 0 0	
+Signal	28	137 1	False	28	0 0 0	
+Signal	29	101 1	False	29	0 0 0	
+Signal	30	105 2	False	30	0 0 0	
+Signal	31	27 1	False	31	0 0 0	
+Signal	32	28 7	True	0	0 0 0	
+--------------------------------------------------------------------------------------------
+HStelln	Nr.	InfFeld	Bez
+--------------------------------------------------------------------------------------------
+FahrstraßenN	Nr.	Start	Ziel
+FahrstrasseN	1	11	13	False	False
+ BefehlStart	Sn11:An	Gl13:An	Fss2:Aus	Fss5:Aus	Fss6:Aus	Fss8:Aus	We150:An	We160:An	We31:An	We41:Aus	Gl29:An	Gl40:Aus	We381:Aus	We380:Aus	We370:An	We370:An	Gl47:An	Sn7:Aus
+ BefehlZiel	Sn11:Aus	Sn7:Aus	Gl13:Aus	Gl29:Aus	Gl40:Aus	Sn7:Aus	Gl40:Aus	Gl47:Aus	Sn13:Aus
+ KnotenListe	15	16	135	13	9	1	2	3	4	29	38	37
+FahrstrasseN	2	11	8	False	False
+ BefehlStart	Sn11:An	Gl13:An	Fss2:Aus	Fss5:Aus	Fss8:Aus	Fss8:Aus	We150:An	We160:An	We31:An	We41:Aus	Gl29:An	Gl40:Aus	Sn7:An	Gl40:An	We381:Aus	We380:An	Gl46:An	Sn8:Aus
+ BefehlZiel	Sn11:Aus	Gl13:Aus	Gl29:Aus	Gl40:Aus	Sn7:Aus	Sn7:Aus	Gl40:Aus	Gl46:Aus	Sn8:Aus
+ KnotenListe	15	16	135	13	9	1	2	3	4	29
+FahrstrasseN	3	11	3	False	False
+ BefehlStart	Sn11:An	Gl13:An	Fss4:An	Fss2:Aus	Fss8:Aus	We150:Aus	We141:Aus	We251:Aus	Gl46:An	Gl46:An	Gl40:An	Gl29:An	Sn9:Aus
+ BefehlZiel	Sn11:Aus	Gl13:Aus	Gl46:Aus	Sn9:Aus	Gl46:Aus	Gl40:Aus	Gl29:Aus	Sn3:Aus
+ KnotenListe	15	14	134	12	11	10	18	19	20	21	22	25	23	24	41	42	43
+FahrstrasseN	4	5	14	False	False
+ BefehlStart	Sn5:An	Gl33:An	We320:An	We370:Aus	Sn13:An	Gl47:An	Fss3:An	Fss6:An	We720:An	We690:An	We680:Aus	Gl69:An	Gl54:Aus	Sn14:Aus
+ BefehlZiel	Sn13:Aus	Gl47:Aus	Gl69:Aus	Gl54:Aus	Sn14:Aus
+ KnotenListe	32	37	44	45	46	47	48	49	73	72	69	68	67	52
+FahrstrasseN	5	5	15	False	False
+ BefehlStart	Sn5:An	Gl33:An	We320:An	We370:Aus	Sn13:An	Gl47:An	Fss3:An	Fss6:An	We720:An	We690:An	We680:An	Gl71:An	Gl55:Aus	Sn15:Aus
+ BefehlZiel	Sn13:Aus	Gl47:Aus	Gl71:Aus	Gl55:Aus	Sn15:Aus
+ KnotenListe	32	37	44	45	46	47	48	49	73	72	69	68	53
+FahrstrasseN	6	5	17	False	False
+ BefehlStart	Sn5:An	Gl33:An	We320:An	We370:Aus	Sn13:An	Gl47:An	Fss3:An	Fss6:An	We720:An	We690:Aus	We701:Aus	Gl76:An	Gl60:Aus	Sn17:Aus
+ BefehlZiel	Sn13:Aus	Gl47:Aus	Gl76:Aus	Gl60:Aus	Sn17:Aus
+ KnotenListe	32	37	44	45	46	47	48	49	73	72	69	70	71	58
+FahrstrasseN	7	5	16	False	False
+ BefehlStart	Sn5:An	Gl33:An	We320:An	We370:Aus	Sn13:An	Gl47:An	Fss3:An	Fss6:An	We720:An	We690:Aus	We701:An	Gl75:An	Gl59:Aus	Sn16:Aus
+ BefehlZiel	Sn13:Aus	Gl47:Aus	Gl75:Aus	Gl59:Aus	Sn16:Aus
+ KnotenListe	32	37	44	45	46	47	48	49	73	72	69	70	57
+FahrstrasseN	8	5	19	False	False
+ BefehlStart	Sn5:An	Gl33:An	We320:An	We370:Aus	Sn13:An	Gl47:An	Fss3:An	Fss6:An	We720:Aus	We741:An	We751:Aus	Gl84:An	Gl67:Aus	Sn19:Aus
+ BefehlZiel	Sn13:Aus	Gl47:Aus	Gl84:Aus	Gl67:Aus	Sn19:Aus
+ KnotenListe	32	37	44	45	46	47	48	49	73	72	74	75	76	65
+FahrstrasseN	9	5	18	False	False
+ BefehlStart	Sn5:An	Gl33:An	We320:An	We370:Aus	Sn13:An	Gl47:An	Fss3:An	Fss6:An	We720:Aus	We741:An	We751:An	Gl83:An	Gl64:Aus	Sn18:Aus
+ BefehlZiel	Sn13:Aus	Gl47:Aus	Gl83:Aus	Gl64:Aus	Sn18:Aus
+ KnotenListe	32	37	44	45	46	47	48	49	73	72	74	75	62
+FahrstrasseN	10	12	10	False	False
+ BefehlStart	Sn3:An	Gl47:An	Gl29:An	Fss2:Aus	Fss5:Aus	Fss6:Aus	We370:An	We380:Aus	We381:Aus	We41:Aus	We31:An	We160:Aus	We170:Aus	Gl117:An	Gl118:Aus	Sn10:Aus
+ BefehlZiel	Sn3:Aus	Gl29:Aus	Gl117:Aus	Gl118:Aus	Sn10:Aus
+ KnotenListe	37	38	29	4	3	2	1	9	13	135	16	17	108
+FahrstrasseN	11	9	10	False	False
+ BefehlStart	Sn9:An	Gl46:An	We380:An	We381:Aus	Gl40:An	Sn3:An	Gl29:An	Fss2:Aus	Fss5:Aus	Fss7:Aus	We41:Aus	We31:An	We160:Aus	We170:Aus	Gl117:An	Gl118:Aus	Sn10:Aus
+ BefehlZiel	Sn3:Aus	Gl29:Aus	Gl117:Aus	Gl118:Aus	Sn10:Aus	Sn9:Aus	Gl46:Aus	Gl40:Aus	Gl29:Aus	Sn3:Aus
+ KnotenListe	38	29	4	3	2	1	9	13	135	16	17	108
+FahrstrasseN	17	1	10	False	False
+ BefehlStart	Sn1:An	Gl30:An	Fss1:Aus	Fss5:Aus	Fss7:Aus	We31:Aus	We160:Aus	We170:Aus	Gl117:An	Gl118:Aus	Sn10:Aus
+ BefehlZiel	Sn1:Aus	Gl30:Aus	Gl117:Aus	Gl118:Aus	Sn10:Aus
+ KnotenListe	7	6	5	3	2	1	9	13	135	16	17	108
+FahrstrasseN	34	2	10	False	False
+ BefehlStart	Sn2:An	Gl154:An	Fss3:Aus	Fss5:Aus	Fss7:Aus	We41:An	We31:An	We160:Aus	We170:Aus	Gl117:An	Gl118:Aus	Sn10:Aus
+ BefehlZiel	Sn2:Aus	Gl154:Aus	Gl117:Aus	Gl118:Aus	Sn10:Aus
+ KnotenListe	136	4	3	2	1	9	13	135	16	17	108
+FahrstrasseN	51	3	10	False	False
+ BefehlStart	Sn3:An	Gl29:An	Fss2:Aus	Fss5:Aus	Fss7:Aus	We41:Aus	We31:An	We160:Aus	We170:Aus	Gl117:An	Gl118:Aus	Sn10:Aus
+ BefehlZiel	Sn3:Aus	Gl29:Aus	Gl117:Aus	Gl118:Aus	Sn10:Aus
+ KnotenListe	4	3	2	1	9	13	135	16	17	108
+FahrstrasseN	52	4	13	False	False
+ BefehlStart	Sn4:An	Gl31:An	We311:Aus	We320:Aus	We370:Aus	Gl47:An	Sn13:Aus
+ BefehlZiel	Sn4:Aus	Gl31:Aus	Gl47:Aus	Sn13:Aus
+ KnotenListe	31	32	37
+FahrstrasseN	53	5	13	False	False
+ BefehlStart	Sn5:An	Gl33:An	We320:An	We370:Aus	Gl47:An	Sn13:Aus
+ BefehlZiel	Sn5:Aus	Gl33:Aus	Gl47:Aus	Sn13:Aus
+ KnotenListe	32	37
+FahrstrasseN	54	6	12	False	False
+ BefehlStart	Sn6:An	Gl91:An	Gl151:An	Fss6:An	We770:Aus	We741:Aus	We720:Aus	Gl47:An	Sn12:Aus
+ BefehlZiel	Sn6:Aus	Gl91:Aus	Gl47:Aus	Sn12:Aus
+ KnotenListe	81	77	74	72	73	49	48	47	46	45	44
+FahrstrasseN	55	7	13	False	False
+ BefehlStart	Sn7:An	Gl40:An	We381:Aus	We380:Aus	We370:An	Gl47:An	Sn13:Aus
+ BefehlZiel	Sn7:Aus	Gl40:Aus	Gl47:Aus	Sn13:Aus
+ KnotenListe	38	37
+FahrstrasseN	56	7	8	False	False
+ BefehlStart	Sn7:An	Gl40:An	We381:Aus	We380:An	Gl46:An	Sn8:Aus
+ BefehlZiel	Sn7:Aus	Gl40:Aus	Gl46:Aus	Sn8:Aus
+ KnotenListe	38
+FahrstrasseN	57	8	31	False	False
+ BefehlStart	Sn8:An	Gl46:An	We251:An	Gl27:An	Gl28:Aus	Sn32:Aus
+ BefehlZiel	Sn8:Aus	Gl46:Aus	Gl27:Aus	Gl28:Aus	Sn32:Aus
+ KnotenListe	43	42	41	24	23	25	26	27
+FahrstrasseN	58	8	10	False	False
+ BefehlStart	Sn8:An	Gl46:An	Fss4:An	Fss7:Aus	We251:Aus	We141:An	We170:An	Gl117:An	Gl118:Aus	Sn10:Aus
+ BefehlZiel	Sn8:Aus	Gl46:Aus	Gl117:Aus	Gl118:Aus	Sn10:Aus
+ KnotenListe	43	42	41	24	23	25	22	21	20	19	18	10	11	12	134	14	17	108
+FahrstrasseN	107	9	3	False	False
+ BefehlStart	Sn9:An	Gl46:An	We380:An	We381:Aus	Gl40:An	Gl29:Aus	Sn3:Aus
+ BefehlZiel	Sn9:Aus	Gl46:Aus	Gl40:Aus	Gl29:Aus	Sn3:Aus
+ KnotenListe	38	29
+FahrstrasseN	108	10	30	False	False
+ BefehlStart	Sn10:An	Gl118:An	Fss7:An	We1281:An	Gl147:An	Gl105:Aus	Sn30:Aus
+ BefehlZiel	Sn10:Aus	Gl118:Aus	Gl147:An	Gl105:Aus	Sn30:Aus
+ KnotenListe	109	127	126	125	128	129	97
+FahrstrasseN	109	10	29	False	False
+ BefehlStart	Sn10:An	Gl118:An	Fss7:An	We1281:Aus	Gl150:An	Gl101:Aus	Sn29:Aus
+ BefehlZiel	Sn10:Aus	Gl118:Aus	Gl150:An	Gl101:Aus	Sn29:Aus
+ KnotenListe	109	127	126	125	128	130	131	92
+FahrstrasseN	110	11	7	False	False
+ BefehlStart	Sn11:An	Gl13:An	Fss2:Aus	Fss5:Aus	Fss8:Aus	We150:An	We160:An	We31:An	We41:Aus	Gl29:An	Gl40:Aus	Sn7:Aus
+ BefehlZiel	Sn11:Aus	Gl13:Aus	Gl29:Aus	Gl40:Aus	Sn7:Aus
+ KnotenListe	15	16	135	13	9	1	2	3	4	29
+FahrstrasseN	111	11	5	False	False
+ BefehlStart	Sn11:An	Gl13:An	Fss3:Aus	Fss5:Aus	Fss8:Aus	We150:An	We160:An	We31:An	We41:An	Gl154:An	Gl33:An	Sn5:Aus
+ BefehlZiel	Sn11:Aus	Gl13:Aus	Gl154:Aus	Gl33:Aus	Sn5:Aus
+ KnotenListe	15	16	135	13	9	1	2	3	4	136	8
+FahrstrasseN	112	11	4	False	False
+ BefehlStart	Sn11:An	Gl13:An	Fss1:Aus	Fss8:Aus	Fss5:Aus	We150:An	We160:An	We31:Aus	Gl30:An	Gl31:An	Sn4:Aus
+ BefehlZiel	Sn11:Aus	Gl13:Aus	Gl30:Aus	Gl31:Aus	Sn4:Aus
+ KnotenListe	15	16	135	13	9	1	2	3	5	6	7	30
+FahrstrasseN	113	11	9	False	False
+ BefehlStart	Sn11:An	Gl13:An	Fss4:An	Fss8:Aus	We150:Aus	We141:Aus	We251:Aus	Gl46:An	Sn9:Aus
+ BefehlZiel	Sn11:Aus	Gl13:Aus	Gl46:Aus	Sn9:Aus
+ KnotenListe	15	14	134	12	11	10	18	19	20	21	22	25	23	24	41	42	43
+FahrstrasseN	114	12	1	False	False
+ BefehlStart	Sn12:An	Gl47:An	We370:Aus	We320:Aus	We311:Aus	Gl31:An	Gl30:An	Sn1:Aus
+ BefehlZiel	Sn12:Aus	Gl47:Aus	Gl31:Aus	Gl30:Aus	Sn1:Aus
+ KnotenListe	37	32	31	30
+FahrstrasseN	115	12	2	False	False
+ BefehlStart	Sn12:An	Gl47:An	We370:Aus	We320:An	Gl33:An	Gl154:An	Sn2:Aus
+ BefehlZiel	Sn12:Aus	Gl47:Aus	Gl33:Aus	Gl154:Aus	Sn2:Aus
+ KnotenListe	37	32	8
+FahrstrasseN	116	12	3	False	False
+ BefehlStart	Sn12:An	Gl47:An	We370:An	We380:Aus	We381:Aus	Gl40:An	Gl29:An	Sn3:Aus
+ BefehlZiel	Sn12:Aus	Gl47:Aus	Gl40:Aus	Gl29:Aus	Sn3:Aus
+ KnotenListe	37	38	29
+FahrstrasseN	117	13	14	False	False
+ BefehlStart	Sn13:An	Gl47:An	Fss6:An	We720:An	We690:An	We680:Aus	Gl69:An	Gl54:Aus	Sn14:Aus
+ BefehlZiel	Sn13:Aus	Gl47:Aus	Gl69:Aus	Gl54:Aus	Sn14:Aus
+ KnotenListe	44	45	46	47	48	49	73	72	69	68	67	52
+FahrstrasseN	118	13	15	False	False
+ BefehlStart	Sn13:An	Gl47:An	Fss6:An	We720:An	We690:An	We680:An	Gl71:An	Gl55:Aus	Sn15:Aus
+ BefehlZiel	Sn13:Aus	Gl47:Aus	Gl71:Aus	Gl55:Aus	Sn15:Aus
+ KnotenListe	44	45	46	47	48	49	73	72	69	68	53
+FahrstrasseN	119	13	17	False	False
+ BefehlStart	Sn13:An	Gl47:An	Fss6:An	We720:An	We690:Aus	We701:Aus	Gl76:An	Gl60:Aus	Sn17:Aus
+ BefehlZiel	Sn13:Aus	Gl47:Aus	Gl76:Aus	Gl60:Aus	Sn17:Aus
+ KnotenListe	44	45	46	47	48	49	73	72	69	70	71	58
+FahrstrasseN	120	13	16	False	False
+ BefehlStart	Sn13:An	Gl47:An	Fss6:An	We720:An	We690:Aus	We701:An	Gl75:An	Gl59:Aus	Sn16:Aus
+ BefehlZiel	Sn13:Aus	Gl47:Aus	Gl75:Aus	Gl59:Aus	Sn16:Aus
+ KnotenListe	44	45	46	47	48	49	73	72	69	70	57
+FahrstrasseN	121	13	19	False	False
+ BefehlStart	Sn13:An	Gl47:An	Fss6:An	We720:Aus	We741:An	We751:Aus	Gl84:An	Gl67:Aus	Sn19:Aus
+ BefehlZiel	Sn13:Aus	Gl47:Aus	Gl84:Aus	Gl67:Aus	Sn19:Aus
+ KnotenListe	44	45	46	47	48	49	73	72	74	75	76	65
+FahrstrasseN	122	13	18	False	False
+ BefehlStart	Sn13:An	Gl47:An	Fss6:An	We720:Aus	We741:An	We751:An	Gl83:An	Gl64:Aus	Sn18:Aus
+ BefehlZiel	Sn13:Aus	Gl47:Aus	Gl83:Aus	Gl64:Aus	Sn18:Aus
+ KnotenListe	44	45	46	47	48	49	73	72	74	75	62
+FahrstrasseN	123	13	20	False	False
+ BefehlStart	Sn13:An	Gl47:An	Fss6:An	We720:Aus	We741:Aus	We770:An	Gl85:An	Gl68:Aus	Sn20:Aus
+ BefehlZiel	Sn13:Aus	Gl47:Aus	Gl85:Aus	Gl68:Aus	Sn20:Aus
+ KnotenListe	44	45	46	47	48	49	73	72	74	77	66
+FahrstrasseN	124	14	6	False	False
+ BefehlStart	Sn14:An	Gl54:An	Gl151:Aus	We510:An	We540:Aus	We590:An	Gl92:An	Gl91:Aus	Sn6:Aus
+ BefehlZiel	Sn14:Aus	Gl54:Aus	Gl92:Aus	Gl91:Aus	Sn6:Aus
+ KnotenListe	50	51	54	59	78	79	80	82
+FahrstrasseN	125	15	6	False	False
+ BefehlStart	Sn15:An	Gl55:An	Gl151:Aus	We510:Aus	We540:Aus	We590:An	Gl92:An	Gl91:Aus	Sn6:Aus
+ BefehlZiel	Sn15:Aus	Gl55:Aus	Gl92:Aus	Gl91:Aus	Sn6:Aus
+ KnotenListe	51	54	59	78	79	80	82
+FahrstrasseN	126	16	6	False	False
+ BefehlStart	Sn16:An	Gl59:An	Gl151:Aus	We551:Aus	We540:An	We590:An	Gl92:An	Gl91:Aus	Sn6:Aus
+ BefehlZiel	Sn16:Aus	Gl59:Aus	Gl92:Aus	Gl91:Aus	Sn6:Aus
+ KnotenListe	56	55	54	59	78	79	80	82
+FahrstrasseN	127	17	6	False	False
+ BefehlStart	Sn17:An	Gl60:An	Gl151:Aus	We551:An	We540:An	We590:An	Gl92:An	Gl91:Aus	Sn6:Aus
+ BefehlZiel	Sn17:Aus	Gl60:Aus	Gl92:Aus	Gl91:Aus	Sn6:Aus
+ KnotenListe	55	54	59	78	79	80	82
+FahrstrasseN	128	18	6	False	False
+ BefehlStart	Sn18:An	Gl64:An	Gl151:Aus	We601:An	We590:Aus	Gl92:An	Gl91:Aus	Sn6:Aus
+ BefehlZiel	Sn18:Aus	Gl64:Aus	Gl92:Aus	Gl91:Aus	Sn6:Aus
+ KnotenListe	61	60	59	78	79	80	82
+FahrstrasseN	129	19	6	False	False
+ BefehlStart	Sn19:An	Gl67:An	Gl151:Aus	We631:An	We601:Aus	We590:Aus	Gl92:An	Gl91:Aus	Sn6:Aus
+ BefehlZiel	Sn19:Aus	Gl67:Aus	Gl92:Aus	Gl91:Aus	Sn6:Aus
+ KnotenListe	63	60	59	78	79	80	82
+FahrstrasseN	130	20	6	False	False
+ BefehlStart	Sn20:An	Gl68:An	Gl151:Aus	We631:Aus	We601:Aus	We590:Aus	Gl92:An	Gl91:Aus	Sn6:Aus
+ BefehlZiel	Sn20:Aus	Gl68:Aus	Gl92:Aus	Gl91:Aus	Sn6:Aus
+ KnotenListe	64	63	60	59	78	79	80	82
+FahrstrasseN	131	21	11	False	False
+ BefehlStart	Sn21:An	Gl121:An	Fss8:An	We1130:An	We1140:Aus	We1160:Aus	Gl120:An	Gl13:Aus	Sn11:Aus
+ BefehlZiel	Sn21:Aus	Gl121:Aus	Gl120:Aus	Gl13:Aus	Sn11:Aus
+ KnotenListe	112	113	114	116	123	124	111	110
+FahrstrasseN	132	22	11	False	False
+ BefehlStart	Sn22:An	Gl123:An	Fss8:An	We1130:Aus	We1140:Aus	We1160:Aus	Gl120:An	Gl13:Aus	Sn11:Aus
+ BefehlZiel	Sn22:Aus	Gl123:Aus	Gl120:Aus	Gl13:Aus	Sn11:Aus
+ KnotenListe	113	114	116	123	124	111	110
+FahrstrasseN	133	23	11	False	False
+ BefehlStart	Sn23:An	Gl126:An	Fss8:An	We1140:An	We1160:Aus	Gl120:An	Gl13:Aus	Sn11:Aus
+ BefehlZiel	Sn23:Aus	Gl126:Aus	Gl120:Aus	Gl13:Aus	Sn11:Aus
+ KnotenListe	115	114	116	123	124	111	110
+FahrstrasseN	134	24	11	False	False
+ BefehlStart	Sn24:An	Gl130:An	Fss8:An	We1181:An	We1171:An	We1160:An	Gl120:An	Gl13:Aus	Sn11:Aus
+ BefehlZiel	Sn24:Aus	Gl130:Aus	Gl120:Aus	Gl13:Aus	Sn11:Aus
+ KnotenListe	118	117	116	123	124	111	110
+FahrstrasseN	135	25	11	False	False
+ BefehlStart	Sn25:An	Gl132:An	Fss8:An	We1181:Aus	We1171:An	We1160:An	Gl120:An	Gl13:Aus	Sn11:Aus
+ BefehlZiel	Sn25:Aus	Gl132:Aus	Gl120:Aus	Gl13:Aus	Sn11:Aus
+ KnotenListe	119	118	117	116	123	124	111	110
+FahrstrasseN	136	26	11	False	False
+ BefehlStart	Sn26:An	Gl134:An	Fss8:An	We1201:An	We1171:Aus	We1160:An	Gl120:An	Gl13:Aus	Sn11:Aus
+ BefehlZiel	Sn26:Aus	Gl134:Aus	Gl120:Aus	Gl13:Aus	Sn11:Aus
+ KnotenListe	120	117	116	123	124	111	110
+FahrstrasseN	137	27	11	False	False
+ BefehlStart	Sn27:An	Gl138:An	Fss8:An	We1211:An	We1201:Aus	We1171:Aus	We1160:An	Gl120:An	Gl13:Aus	Sn11:Aus
+ BefehlZiel	Sn27:Aus	Gl138:Aus	Gl120:Aus	Gl13:Aus	Sn11:Aus
+ KnotenListe	121	120	117	116	123	124	111	110
+FahrstrasseN	138	28	11	False	False
+ BefehlStart	Sn28:An	Gl137:An	Fss8:An	We1211:Aus	We1201:Aus	We1171:Aus	We1160:An	Gl120:An	Gl13:Aus	Sn11:Aus
+ BefehlZiel	Sn28:Aus	Gl137:Aus	Gl120:Aus	Gl13:Aus	Sn11:Aus
+ KnotenListe	122	121	120	117	116	123	124	111	110
+FahrstrasseN	139	29	23	False	False
+ BefehlStart	Sn29:An	Gl101:An	We901:An	We1070:Aus	We1000:An	We980:An	We940:An	Gl104:An	Gl126:Aus	Sn23:Aus
+ BefehlZiel	Sn29:Aus	Gl101:Aus	Gl104:Aus	Gl126:Aus	Sn23:Aus
+ KnotenListe	91	90	89	88	107	100	98	94	93	96
+FahrstrasseN	140	29	24	False	False
+ BefehlStart	Sn29:An	Gl101:An	We901:An	We1070:Aus	We1000:An	We980:An	We940:Aus	Gl103:An	Gl130:Aus	Sn24:Aus
+ BefehlZiel	Sn29:Aus	Gl101:Aus	Gl103:Aus	Gl130:Aus	Sn24:Aus
+ KnotenListe	91	90	89	88	107	100	98	94	95
+FahrstrasseN	141	29	25	False	False
+ BefehlStart	Sn29:An	Gl101:An	We901:An	We1070:Aus	We1000:An	We980:Aus	Gl107:An	Gl132:Aus	Sn25:Aus
+ BefehlZiel	Sn29:Aus	Gl101:Aus	Gl107:Aus	Gl132:Aus	Sn25:Aus
+ KnotenListe	91	90	89	88	107	100	98	99
+FahrstrasseN	142	29	28	False	False
+ BefehlStart	Sn29:An	Gl101:An	We901:An	We1070:Aus	We1000:Aus	We1011:Aus	We1021:An	Gl112:An	Gl137:Aus	Sn28:Aus
+ BefehlZiel	Sn29:Aus	Gl101:Aus	Gl112:Aus	Gl137:Aus	Sn28:Aus
+ KnotenListe	91	90	89	88	107	100	101	102	103	104
+FahrstrasseN	143	29	27	False	False
+ BefehlStart	Sn29:An	Gl101:An	We901:An	We1070:Aus	We1000:Aus	We1011:Aus	We1021:Aus	Gl113:An	Gl138:Aus	Sn27:Aus
+ BefehlZiel	Sn29:Aus	Gl101:Aus	Gl113:Aus	Gl138:Aus	Sn27:Aus
+ KnotenListe	91	90	89	88	107	100	101	102	105
+FahrstrasseN	144	29	26	False	False
+ BefehlStart	Sn29:An	Gl101:An	We901:An	We1070:Aus	We1000:Aus	We1011:An	Gl97:An	Gl134:Aus	Sn26:Aus
+ BefehlZiel	Sn29:Aus	Gl101:Aus	Gl97:Aus	Gl134:Aus	Sn26:Aus
+ KnotenListe	91	90	89	88	107	100	101	106
+FahrstrasseN	145	29	21	False	False
+ BefehlStart	Sn29:An	Gl101:An	We901:An	We1070:An	We850:An	Gl93:An	Gl121:Aus	Sn21:Aus
+ BefehlZiel	Sn29:Aus	Gl101:Aus	Gl93:Aus	Gl121:Aus	Sn21:Aus
+ KnotenListe	91	90	89	88	107	87	85	83	84
+FahrstrasseN	146	29	22	False	False
+ BefehlStart	Sn29:An	Gl101:An	We901:An	We1070:An	We850:Aus	Gl95:An	Gl123:Aus	Sn22:Aus
+ BefehlZiel	Sn29:Aus	Gl101:Aus	Gl95:Aus	Gl123:Aus	Sn22:Aus
+ KnotenListe	91	90	89	88	107	87	85	86
+FahrstrasseN	147	30	23	False	False
+ BefehlStart	Sn30:An	Gl105:An	We901:Aus	We1070:Aus	We1000:An	We980:An	We940:An	Gl104:An	Gl126:Aus	Sn23:Aus
+ BefehlZiel	Sn30:Aus	Gl105:Aus	Gl104:Aus	Gl126:Aus	Sn23:Aus
+ KnotenListe	90	89	88	107	100	98	94	93	96
+FahrstrasseN	148	30	24	False	False
+ BefehlStart	Sn30:An	Gl105:An	We901:Aus	We1070:Aus	We1000:An	We980:An	We940:Aus	Gl103:An	Gl130:Aus	Sn24:Aus
+ BefehlZiel	Sn30:Aus	Gl105:Aus	Gl103:Aus	Gl130:Aus	Sn24:Aus
+ KnotenListe	90	89	88	107	100	98	94	95
+FahrstrasseN	149	30	25	False	False
+ BefehlStart	Sn30:An	Gl105:An	We901:Aus	We1070:Aus	We1000:An	We980:Aus	Gl107:An	Gl132:Aus	Sn25:Aus
+ BefehlZiel	Sn30:Aus	Gl105:Aus	Gl107:Aus	Gl132:Aus	Sn25:Aus
+ KnotenListe	90	89	88	107	100	98	99
+FahrstrasseN	150	30	28	False	False
+ BefehlStart	Sn30:An	Gl105:An	We901:Aus	We1070:Aus	We1000:Aus	We1011:Aus	We1021:An	Gl112:An	Gl137:Aus	Sn28:Aus
+ BefehlZiel	Sn30:Aus	Gl105:Aus	Gl112:Aus	Gl137:Aus	Sn28:Aus
+ KnotenListe	90	89	88	107	100	101	102	103	104
+FahrstrasseN	151	30	27	False	False
+ BefehlStart	Sn30:An	Gl105:An	We901:Aus	We1070:Aus	We1000:Aus	We1011:Aus	We1021:Aus	Gl113:An	Gl138:Aus	Sn27:Aus
+ BefehlZiel	Sn30:Aus	Gl105:Aus	Gl113:Aus	Gl138:Aus	Sn27:Aus
+ KnotenListe	90	89	88	107	100	101	102	105
+FahrstrasseN	152	30	26	False	False
+ BefehlStart	Sn30:An	Gl105:An	We901:Aus	We1070:Aus	We1000:Aus	We1011:An	Gl97:An	Gl134:Aus	Sn26:Aus
+ BefehlZiel	Sn30:Aus	Gl105:Aus	Gl97:Aus	Gl134:Aus	Sn26:Aus
+ KnotenListe	90	89	88	107	100	101	106
+FahrstrasseN	153	30	21	False	False
+ BefehlStart	Sn30:An	Gl105:An	We901:Aus	We1070:An	We850:An	Gl93:An	Gl121:Aus	Sn21:Aus
+ BefehlZiel	Sn30:Aus	Gl105:Aus	Gl93:Aus	Gl121:Aus	Sn21:Aus
+ KnotenListe	90	89	88	107	87	85	83	84
+FahrstrasseN	154	30	22	False	False
+ BefehlStart	Sn30:An	Gl105:An	We901:Aus	We1070:An	We850:Aus	Gl95:An	Gl123:Aus	Sn22:Aus
+ BefehlZiel	Sn30:Aus	Gl105:Aus	Gl95:Aus	Gl123:Aus	Sn22:Aus
+ KnotenListe	90	89	88	107	87	85	86
+FahrstrasseN	155	31	9	False	False
+ BefehlStart	Sn31:An	Gl28:An	Gl27:An	We251:An	Gl46:An	Sn9:Aus
+ BefehlZiel	Sn31:Aus	Gl28:Aus	Gl27:Aus	Gl46:Aus	Sn9:Aus
+ KnotenListe	26	25	23	24	41	42	43
+--------------------------------------------------------------------------------------------
+Züge	Nr.	Signal	Lok	Typ	Geschw	Bez
+Zug	1	25	38 3860	P		3achs Reko
+Zug	2	0	V180 101	P		Reko 3-achs
+Zug	3	17	118 201	ICE		Interzone
+Zug	4	0	173 002	D		Tw
+Zug	5	12	137	P		Tw
+Zug	6	27	118 203	P		Eilzug
+Zug	7	22	50 3048	G		GmP
+Zug	8	24	44 1182	G		Durchgangsgüter
+Zug	9	21	110 960	A		Bauzug
+Zug	10	28	120 289	G		Kalizug sauber
+Zug	11	29	50 1485	P		Reko 3-achs
+Zug	12	19	64 1212	P		Altmarkzug
+Zug	13	2	131 071	G		Kohle
+Zug	14	18	91 1909	G		Nahgüter
+Zug	15	4	V200 025	G		Kalizug
+Zug	16	16	106 999			Tw-Bw
+Zug	17	26	52 3232	G		Güter
+Zug	18	0	175			
+Zug	19	14	120			Rübe
+Zug	20	23	50 387			Panzer

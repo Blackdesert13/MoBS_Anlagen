@@ -1,0 +1,379 @@
+﻿--------------------------------------------------------------------------------------------
+Anschlüsse	Nr.	Bez.	Stecker
+Anschluss	1	Weich_0	SV4_16 SV11_16 SV13_16 SV21_16 V1-2_17 V2-3_16 V3-4_16 V4-5_16 V5-6_16
+Anschluss	2	Weich_+	SV4_14 SV11_14 SV13_14 SV21_14 V2-3_14 V3-4_14 V4-5_14 V5-6_14
+Anschluss	3	Weich_-	SV4_15 SV11_15 SV13_15 SV21_15 V2-3_15 V3-4_15 V4-5_15 V5-6_15
+Anschluss	4	Gleis_0	SV4_19 SV11_19 SV13_19 SV21_19 V2-3_19 V3-4_19 V4-5_19 V5-6_19 V6-7_19 
+--------------------------------------------------------------------------------------------
+Arduinos	Nr.	LageX	LageY	Anl.-Teil
+MCSpeicher	1	10	30	Zentraleinschub
+MCSpeicher	2	10	30	Schattenb.rechts
+MCSpeicher	3	10	30	Schattenb.rechts
+MCSpeicher	4	10	30	Schattenb.links
+MCSpeicher	5	10	30	Schattenb.links
+MCSpeicher	6	10	30	Anl.-Teil2
+MCSpeicher	7	10	30	Anl.-Teil2
+MCSpeicher	8	10	30	Anl.-Teil3
+MCSpeicher	9	10	30	Anl.-Teil3
+MCSpeicher	10	10	30	Anl.-Teil4
+MCSpeicher	11	10	30	Anl.-Teil4
+MCSpeicher	12	10	30	Anl.-Teil5
+MCSpeicher	13	10	30	Anl.-Teil5
+MCSpeicher	14	10	30	
+MCSpeicher	15	10	30	
+MCSpeicher	16	10	30	
+MCSpeicher	17	10	30	
+--------------------------------------------------------------------------------------------
+Servos	Nr.	LageX	LageY	WinkelE	WinkelA	Speed	Manuell	Ausgang	Beschr.	Bez	Stecker
+--------------------------------------------------------------------------------------------
+FahrReg	Nr.	LageX	LageY	Farbe	FarbeZ	Bez	Stecker
+Regler	1	55	1	Cyan	-16711681	HB-EinfRe	 
+Regler	2	55	2	Fuchsia	-65281	HB-AusfL	SV4_24 SV21_24 V2-3_24 V3-4_24 V4-5_24 V5-6_24 V6-7_24
+Regler	3	55	3	Gold	-10496	HB-EinfL	
+Regler	4	55	4	CornflowerBlue	-10185235	HB-AusfR	SV4_22 SV11_22 SV13_22 V1-2_22 V2-3_22 V3-4_22
+Regler	5	55	5	Chartreuse	-8388864	NebenB.	SV4_21 V1-2_21 V2-3_21 V3-4_21 V4-5_21 V5-6_21
+Regler	6	55	6	Blue	-16776961	BW	SV4_20 V3-4_20 V4-5_20
+Regler	7	60	1	Gold	-10496	SchattenNB	SV4_18 V2-3_18 V3-4_18 V4-5_18
+Regler	8	60	2	Salmon	-360334	SchattenHBrechts	SV4_17 SV11_17 SV13_17 V3-4_17 V2-3_17 V1-2_18
+Regler	9	60	3	Olive	-8355840	SchattenHBlinks	SV21_20
+--------------------------------------------------------------------------------------------
+Knoten	Nr.	LageX	LageY
+Knot	1	2	5
+Knot	2	1	6
+Knot	3	4	5
+Knot	4	5	4
+Knot	5	1	4
+Knot	6	7	2
+Knot	7	8	1
+Knot	8	19	1
+Knot	9	19	2
+Knot	10	16	5
+Knot	11	16	4
+Knot	12	4	12
+Knot	13	3	13
+Knot	14	5	13
+Knot	15	4	14
+Knot	16	3	19
+Knot	17	4	19
+Knot	18	6	12
+Knot	19	7	13
+Knot	20	9	13
+Knot	21	10	12
+Knot	22	12	13
+Knot	23	13	14
+Knot	24	12	12
+Knot	25	13	11
+Knot	26	8	11
+Knot	27	18	12
+Knot	28	18	11
+Knot	29	19	13
+Knot	30	19	14
+Knot	31	23	11
+Knot	32	26	11
+Knot	33	25	12
+Knot	34	23	12
+Knot	35	31	11
+Knot	36	30	10
+Knot	37	26	14
+Knot	38	29	14
+Knot	39	30	15
+Knot	40	31	16
+Knot	41	33	14
+Knot	42	34	13
+Knot	43	26	13
+Knot	44	36	16
+Knot	45	36	15
+Knot	46	40	14
+Knot	47	38	9
+Knot	48	28	8
+Knot	49	26	8
+Knot	50	28	10
+Knot	51	24	6
+Knot	52	30	8
+Knot	53	33	9
+Knot	54	33	11
+Knot	55	34	12
+Knot	56	39	12
+Knot	57	40	13
+Knot	58	46	12
+Knot	59	47	16
+Knot	60	47	15
+Knot	61	47	14
+Knot	62	45	13
+Knot	63	52	12
+Knot	64	56	12
+Knot	65	52	16
+Knot	66	53	15
+Knot	67	63	16
+Knot	68	54	14
+Knot	69	56	14
+Knot	70	57	13
+Knot	71	62	14
+Knot	72	52	13
+Knot	73	59	13
+Knot	74	60	12
+Knot	75	64	13
+Knot	76	63	12
+Knot	77	55	11
+Knot	78	48	11
+Knot	79	47	10
+Knot	80	55	10
+Knot	81	42	10
+Knot	82	38	11
+Knot	83	42	11
+Knot	84	3	29
+Knot	85	4	30
+Knot	86	3	37
+Knot	87	5	39
+Knot	88	4	28
+Knot	89	4	31
+Knot	90	5	32
+Knot	91	4	33
+Knot	92	6	33
+Knot	93	17	32
+Knot	94	20	32
+Knot	95	17	33
+Knot	96	20	33
+Knot	97	5	34
+Knot	98	17	34
+Knot	99	20	34
+Knot	100	6	35
+Knot	101	17	35
+Knot	102	20	35
+Knot	103	4	35
+Knot	104	5	36
+Knot	105	6	37
+Knot	106	17	36
+Knot	107	20	36
+Knot	108	17	37
+Knot	109	20	37
+Knot	110	5	29
+Knot	111	6	30
+Knot	112	7	31
+Knot	113	11	31
+Knot	114	11	30
+Knot	115	11	29
+Knot	116	11	39
+Knot	117	21	31
+Knot	118	22	32
+Knot	119	22	37
+Knot	120	20	39
+Knot	121	22	39
+Knot	122	23	38
+Knot	123	23	31
+Knot	124	23	28
+Knot	125	22	27
+Knot	126	22	30
+Knot	127	21	29
+Knot	128	20	28
+Knot	129	4	25
+Knot	130	5	26
+Knot	131	6	27
+Knot	132	7	28
+Knot	133	11	28
+Knot	134	11	27
+Knot	135	21	26
+Knot	136	11	26
+Knot	137	20	25
+Knot	138	12	25
+Knot	139	4	21
+Knot	140	5	22
+Knot	141	7	24
+Knot	142	8	25
+Knot	143	12	24
+Knot	144	23	25
+Knot	145	22	24
+Knot	146	21	23
+Knot	147	20	22
+Knot	148	12	23
+Knot	149	12	22
+Knot	150	7	22
+Knot	151	8	23
+Knot	152	1	15
+Knot	153	2	16
+Knot	154	5	19
+Knot	155	25	38
+Knot	156	26	39
+Knot	157	60	39
+Knot	158	66	39
+Knot	159	67	38
+Knot	160	60	38
+Knot	161	41	37
+Knot	162	42	38
+Knot	163	43	38
+Knot	164	45	38
+Knot	165	46	37
+Knot	166	47	36
+Knot	167	48	35
+Knot	168	49	34
+Knot	169	50	33
+Knot	170	60	33
+Knot	171	60	34
+Knot	172	60	35
+Knot	173	60	36
+Knot	174	60	37
+Knot	175	68	37
+Knot	176	69	36
+Knot	177	70	35
+Knot	178	67	35
+Knot	179	68	34
+Knot	180	69	33
+Knot	181	49	32
+Knot	182	60	32
+Knot	183	50	31
+Knot	184	60	31
+Knot	185	51	30
+Knot	186	60	30
+Knot	187	41	35
+Knot	188	52	29
+Knot	189	53	28
+Knot	190	54	27
+Knot	191	60	29
+Knot	192	60	28
+Knot	193	70	32
+Knot	194	67	32
+Knot	195	68	31
+Knot	196	69	30
+Knot	197	70	29
+Knot	198	67	29
+Knot	199	60	27
+Knot	200	68	28
+Knot	201	69	27
+Knot	202	70	26
+Knot	203	47	29
+Knot	204	53	25
+Knot	205	57	25
+Knot	206	63	25
+Knot	207	64	24
+Knot	208	65	23
+Knot	209	58	24
+Knot	210	59	23
+Knot	211	55	23
+Knot	212	54	24
+Knot	213	67	23
+Knot	214	68	22
+Knot	215	54	22
+Knot	216	68	23
+Knot	217	69	23
+Knot	218	70	22
+Knot	219	68	12
+Knot	220	70	14
+Knot	221	69	21
+Knot	222	69	20
+Knot	223	69	17
+Knot	224	67	13
+Knot	225	69	15
+Knot	226	48	26
+Knot	227	47	27
+Knot	228	46	28
+Knot	229	45	29
+Knot	230	44	30
+Knot	231	43	31
+Knot	232	42	32
+Knot	233	41	33
+Knot	234	40	34
+Knot	235	39	35
+Knot	236	48	25
+Knot	237	47	24
+Knot	238	46	24
+Knot	239	29	24
+Knot	240	23	19
+Knot	241	22	19
+Knot	242	38	28
+Knot	243	33	28
+Knot	244	32	29
+Knot	245	31	30
+Knot	246	30	31
+Knot	247	37	29
+Knot	248	36	30
+Knot	249	35	31
+Knot	250	34	32
+Knot	251	29	32
+Knot	252	33	33
+Knot	253	28	33
+Knot	254	27	34
+Knot	255	26	35
+Knot	256	31	35
+Knot	257	32	34
+Knot	258	25	36
+Knot	259	61	11
+Knot	260	61	10
+Knot	261	27	7
+Knot	262	24	4
+Knot	263	23	5
+Knot	264	27	5
+Knot	265	24	2
+Knot	266	25	1
+Knot	267	27	1
+Knot	268	27	3
+Knot	269	32	10
+Knot	270	34	10
+Knot	271	30	1
+Knot	272	28	2
+Knot	273	29	2
+Knot	274	29	3
+Knot	275	32	8
+Knot	276	32	5
+Knot	277	34	5
+Knot	278	38	5
+Knot	279	33	4
+Knot	280	29	4
+Knot	281	28	5
+Knot	282	30	5
+Knot	283	29	6
+Knot	284	31	5
+Knot	285	31	7
+Knot	286	33	3
+Knot	287	36	3
+Knot	288	33	2
+Knot	289	34	1
+Knot	290	66	14
+Knot	291	68	18
+Knot	292	56	18
+Knot	293	67	19
+Knot	294	56	19
+Knot	295	66	20
+Knot	296	56	20
+Knot	297	52	18
+Knot	298	51	19
+Knot	299	50	20
+Knot	300	6	20
+Knot	301	21	20
+Knot	302	24	18
+Knot	303	24	19
+Knot	304	33	18
+Knot	305	47	21
+Knot	306	26	19
+Knot	307	30	23
+Knot	308	34	19
+Knot	309	36	21
+Knot	310	35	18
+Knot	311	38	21
+Knot	312	37	18
+Knot	313	39	20
+Knot	314	39	18
+Knot	315	40	19
+Knot	316	50	18
+Knot	317	10	20
+Knot	318	30	18
+Knot	319	42	9
+Knot	320	42	5
+Knot	321	46	5
+Knot	322	16	20
+Knot	323	8	14
+Knot	324	5	11
+Knot	325	49	19
+Knot	326	48	20
+Knot	327	36	22
+Knot	328	35	23
+Knot	329	9	19
+Knot	330	11	19
+Knot	331	30	25
+Knot	332	32	25
+Knot	333	34	25
+--------------------------------------------------------------------------------------------
+Gleise	Nr.	StartKn	EndKn	Regler	Ausgang	Eingang	Bez.	Stecker
+--------------------------------------------------------------------------------------------	
+--------------------------------------------------------------------------------------------
+	
+--------------------------------------------------------------------------------------------
