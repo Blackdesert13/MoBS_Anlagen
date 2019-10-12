@@ -1042,6 +1042,8 @@ Schalter	152	351 3
 Schalter	153	372 2		
 Schalter	154	38 3		
 --------------------------------------------------------------------------------------------
+EingangsSchalter	Nr.	Gleis	Eingang	Bez.	Stecker
+--------------------------------------------------------------------------------------------
 FSSer	Nr.	Gleis	Regler1	Regler2	Ausgang	Bez.	Stecker	Koppelung
 FSS	1	250 2	2	1	1-1-7	1901	SV4_25 SV11_25 SV13_25 V1-2_25 V2-3_25 V3-4_25	
 FSS	2	14 2	3	4	1-1-6	6902 7902	SV4_23 SV21_23 V3-4_23 V4-5_23 V5-6_23 V6-7_23	
@@ -1889,7 +1891,7 @@ FahrstrasseN	155	43	57	False	False
  BefehlZiel	Sn43:Aus	Gl46:Aus	Gl39:Aus	Gl38:Aus	Gl37:Aus	Gl29:Aus	Sn57:Aus
  KnotenListe	39	38	37	30
 FahrstrasseN	156	44	57	False	False
- BefehlStart	Gl47:An	Gl64:An	Gl73:An	Sn44:An	We19:Aus	Gl41:An	Gl38:An	Gl37:An	Gl29:An	Fss3:Aus	Fss19:Aus	Fss28:Aus	Fss22:An	Sn57:Aus
+ BefehlStart	Gl47:An	Gl64:An	Gl73:An	Sn44:An	We19:Aus	We21:An	Gl41:An	Gl38:An	Gl37:An	Gl29:An	Fss3:Aus	Fss19:Aus	Fss28:Aus	Fss22:An	Sn57:Aus
  BefehlZiel	Sn44:Aus	Gl47:Aus	Gl41:Aus	Gl38:Aus	Gl37:Aus	Gl29:Aus	Sn57:Aus
  KnotenListe	41	38	37	30
 FahrstrasseN	157	54	38	False	False
