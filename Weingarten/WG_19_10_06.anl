@@ -2336,60 +2336,60 @@ FahrstrasseN	276	67	72	False	False
  KnotenListe	299	238	239	303	240	241	330	329
 --------------------------------------------------------------------------------------------
 Züge	Nr.	Signal	Lok	Typ	Geschw	Bez	ZLänge	DigAdr.	Ankunft
-Zug	1	12	Nohab	G	0	Güter Mix	0	0	08.10.2019 17:21:40
+Zug	1	15	Nohab	G	0	Güter Mix	0	0	12.10.2019 15:35:26
 Zug	2	0	RS 1	W	0	STB	0	0	01.01.0001 00:00:00
 Zug	3	0	RS 1	W	0	EIB	0	0	28.09.2019 18:24:02
-Zug	4	21	182	P	0	RB 20	0	0	08.10.2019 20:52:39
-Zug	5	28	442	W	0	S-Bahn Leipzig	0	0	05.10.2019 17:38:35
-Zug	6	7	Taurus	P	0	Nachtzug	0	0	08.10.2019 20:48:56
-Zug	7	64	442	W	0	Abellio	0	0	08.10.2019 20:48:19
-Zug	8	27	442	W	0	Tali 2 FTX	0	0	05.10.2019 19:58:49
-Zug	9	32	01	P	0	Do Museum	0	0	08.10.2019 18:06:31
-Zug	10	14	156	G	0	MEG Zement	0	0	08.10.2019 19:00:47
-Zug	11	18	155	G	0	Gaskessel	0	0	05.10.2019 18:14:15
-Zug	12	66	G 1206	NG	0	Sand	0	0	05.10.2019 17:52:34
-Zug	13	10	218 2x	G	0	Kohle	0	0	05.10.2019 17:21:15
+Zug	4	17	182	P	0	RB 20	0	0	12.10.2019 16:43:39
+Zug	5	24	442	W	0	S-Bahn Leipzig	0	0	12.10.2019 16:20:50
+Zug	6	19	Taurus	P	0	Nachtzug	0	0	12.10.2019 16:40:46
+Zug	7	26	442	W	0	Abellio	0	0	12.10.2019 16:37:48
+Zug	8	65	442	W	0	Tali 2 FTX	0	0	12.10.2019 16:43:23
+Zug	9	32	01	P	0	Do Museum	0	0	12.10.2019 15:11:49
+Zug	10	9	156	G	0	MEG Zement	0	0	12.10.2019 16:15:41
+Zug	11	44	155	G	0	Gaskessel	0	0	12.10.2019 16:37:20
+Zug	12	66	G 1206	NG	0	Sand	0	0	12.10.2019 15:37:21
+Zug	13	7	218 2x	G	0	Kohle	0	0	12.10.2019 16:35:08
 Zug	14	0	Brille	NG	0	CD Güterzug	0	0	01.01.0001 00:00:00
-Zug	15	5	232	G	0	Holzkisten	0	0	05.10.2019 17:34:07
-Zug	16	6	ER 20	G	0	Rohre	0	0	05.10.2019 17:41:34
+Zug	15	12	232	G	0	Holzkisten	0	0	12.10.2019 15:57:47
+Zug	16	6	ER 20	G	0	Rohre	0	0	12.10.2019 16:26:44
 Zug	17	0	Taurus	P	0	EC Italia	0	0	24.08.2019 17:02:21
 Zug	18	0	RS 1	W	0	ODEG	0	0	31.08.2019 16:42:14
 Zug	19	0	RS 1	W	0	Vogtlandbahn	0	0	14.09.2019 20:50:21
-Zug	20	34	229	P	0	RB türkis	0	0	05.10.2019 18:33:02
-Zug	21	30	KEG	NG	0	Getreide	0	0	08.10.2019 19:34:52
-Zug	22	8	ER 20	G	0	Container	0	0	05.10.2019 17:10:23
-Zug	23	11	ER 20	P	0	Alex	0	0	08.10.2019 20:52:44
-Zug	24	78	213	W	0	W türkis kurz	0	0	08.10.2019 20:18:48
-Zug	25	23	ICE 1	XXL	0	3m lang	0	0	08.10.2019 18:01:25
-Zug	26	25	ICE 3	W	0	Wendezug	0	0	08.10.2019 20:48:25
-Zug	27	65	101	W	0	IC Wendezug	0	0	05.10.2019 19:50:52
-Zug	28	63	Taurus	W	0	Do Wendezug	0	0	05.10.2019 19:52:43
-Zug	29	24	103	W	0	IR Wendezug	0	0	05.10.2019 18:35:33
-Zug	30	36	218	W	0	W rot kurz	0	0	08.10.2019 19:46:49
+Zug	20	34	234	P	0	RB türkis	0	0	12.10.2019 14:22:53
+Zug	21	35	KEG	NG	0	Getreide	0	0	12.10.2019 14:42:21
+Zug	22	8	ER 20	G	0	Container	0	0	12.10.2019 15:28:47
+Zug	23	10	ER 20	P	0	Alex	0	0	12.10.2019 16:40:38
+Zug	24	36	213	W	0	W türkis kurz	0	0	12.10.2019 15:54:26
+Zug	25	2	ICE 1	XXL	0	3m lang	0	0	12.10.2019 15:45:48
+Zug	26	63	ICE 3	W	0	Wendezug	0	0	12.10.2019 16:26:45
+Zug	27	55	101	W	0	IC Wendezug	0	0	12.10.2019 16:43:58
+Zug	28	25	Taurus	W	0	Do Wendezug	0	0	12.10.2019 16:28:58
+Zug	29	56	103	W	0	IR Wendezug	0	0	12.10.2019 16:45:14
+Zug	30	76	218	W	0	W rot kurz	0	0	12.10.2019 16:01:35
 Zug	31	0	219	W	0	Do Wende kurz	0	0	01.01.0001 00:00:00
-Zug	32	76	672	W	0	Ferkeltaxi türkis	0	0	08.10.2019 20:41:33
-Zug	33	0	672	W	0	Ferkeltaxi rot	0	0	08.10.2019 20:23:54
+Zug	32	78	672	W	0	Ferkeltaxi türkis	0	0	12.10.2019 15:56:41
+Zug	33	0	672	W	0	Ferkeltaxi rot	0	0	12.10.2019 15:47:59
 Zug	34	0	Desiro	W	0	Vogtlandbahn	0	0	28.09.2019 20:12:15
-Zug	35	77	Desiro	W	0	rot	0	0	08.10.2019 20:28:46
+Zug	35	79	Desiro	W	0	rot	0	0	12.10.2019 15:33:56
 Zug	36	0	Desiro	W	0	ODEG	0	0	29.09.2019 11:30:52
-Zug	37	0	Desiro	W	0	Connex	0	0	05.10.2019 17:15:14
+Zug	37	31	Desiro	W	0	Connex	0	0	12.10.2019 15:43:53
 Zug	38	0	491	P	0	Gläserner Zug	0	0	29.09.2019 10:40:11
-Zug	39	31	SVT	W	0	Museums-TW	0	0	28.09.2019 19:26:42
-Zug	40	33	628	W	0	türkis	0	0	08.10.2019 20:37:59
+Zug	39	33	SVT	W	0	Museums-TW	0	0	12.10.2019 15:27:03
+Zug	40	77	628	W	0	türkis	0	0	12.10.2019 16:03:59
 Zug	41	0	628	W	0	rot	0	0	28.09.2019 20:16:48
-Zug	42	20	Taurus	G	0	RoLa	0	0	08.10.2019 19:50:57
-Zug	43	67	221	NG	0	Holz beladen	0	0	05.10.2019 18:20:32
-Zug	44	71	221	NG	0	Holz leer	0	0	08.10.2019 20:42:32
-Zug	45	15	Taurus	G	0	Innotrans	0	0	08.10.2019 19:07:27
-Zug	46	9	Taurus	G	0	Behälter	0	0	08.10.2019 19:10:07
-Zug	47	19	02	P	0	Museum	0	0	08.10.2019 20:33:28
-Zug	48	2	KEG	G	0	Kessel	0	0	08.10.2019 18:12:40
+Zug	42	18	Taurus	G	0	RoLa	0	0	12.10.2019 16:27:12
+Zug	43	67	221	NG	0	Holz beladen	0	0	12.10.2019 15:17:41
+Zug	44	37	221	NG	0	Holz leer	0	0	12.10.2019 13:51:33
+Zug	45	16	Taurus	G	0	Innotrans	0	0	12.10.2019 16:33:26
+Zug	46	21	Taurus	G	0	Behälter	0	0	12.10.2019 15:57:30
+Zug	47	22	02	P	0	Museum	0	0	12.10.2019 16:00:08
+Zug	48	23	KEG	G	0	Kessel	0	0	12.10.2019 15:45:51
 Zug	49	0	120	P	0	Inspektion	0	0	01.01.0001 00:00:00
-Zug	50	17	Taurus	G	0	Hangartner	0	0	05.10.2019 17:43:03
-Zug	51	16	V 180	G	0	ITL	0	0	05.10.2019 19:21:21
-Zug	52	13	ER 20	G	0	Stahl	0	0	08.10.2019 18:51:22
-Zug	53	35	ER 20	NG	0	offen blau	0	0	08.10.2019 20:12:13
-Zug	54	53	290	NG	0	Schrott	0	0	05.10.2019 18:45:55
+Zug	50	14	Taurus	G	0	Hangartner	0	0	12.10.2019 15:37:24
+Zug	51	5	V 180	G	0	ITL	0	0	12.10.2019 15:35:27
+Zug	52	20	ER 20	G	0	Stahl	0	0	12.10.2019 15:53:12
+Zug	53	72	ER 20	NG	0	offen blau	0	0	12.10.2019 16:45:25
+Zug	54	53	290	NG	0	Schrott	0	0	12.10.2019 15:57:42
 Zug	55	3	Tiger	XXL	0	Schiebewand	0	0	01.01.0001 00:00:00
 Zug	56	4	221	XXL	0	Schiebeplanen	0	0	05.10.2019 17:59:46
 Zug	57	0	225	W	0	Hilfszug	0	0	08.10.2019 19:23:54
