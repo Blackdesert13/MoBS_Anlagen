@@ -1042,8 +1042,6 @@ Schalter	152	351 3
 Schalter	153	372 2		
 Schalter	154	38 3		
 --------------------------------------------------------------------------------------------
-EingangsSchalter	Nr.	Gleis	Eingang	Bez.	Stecker
---------------------------------------------------------------------------------------------
 FSSer	Nr.	Gleis	Regler1	Regler2	Ausgang	Bez.	Stecker	Koppelung
 FSS	1	250 2	2	1	1-1-7	1901	SV4_25 SV11_25 SV13_25 V1-2_25 V2-3_25 V3-4_25	
 FSS	2	14 2	3	4	1-1-6	6902 7902	SV4_23 SV21_23 V3-4_23 V4-5_23 V5-6_23 V6-7_23	
@@ -1247,7 +1245,7 @@ Signal	56	26 1	False	61	0-0-0			False	0		Gl26:Gleich Gl34:Gleich Gl33:Gleich	0
 Signal	57	29 1	False	62	0-0-0			False	0		Gl29:Gleich Gl37:Gleich Gl38:Gleich	0
 Signal	58	27 1	False	60	0-0-0			False	0		Gl27:Gleich Gl30:Gleich Gl31:Gleich	0
 Signal	59	31 2	True	63	0-0-0			False	0		Gl27:Gleich Gl30:Gleich Gl31:Gleich	0
-Signal	60	352 2	False	50	0-0-0			False	0			0
+Signal	60	352 2	False	50	0-0-0			False	0		Gl352:Gleich Gl351:Aus Gl372:Aus	0
 Signal	63	239 2	False	24	0-0-0			False	0		Gl240:Gleich Gl239:Gleich	240
 Signal	64	235 5	True	22	0-0-0			False	0		Gl235:Gleich Gl234:Gleich	234
 Signal	65	238 2	False	23	0-0-0			False	0		Gl241:Gleich Gl238:Gleich	241
