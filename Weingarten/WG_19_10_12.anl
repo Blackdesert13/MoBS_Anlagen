@@ -783,8 +783,8 @@ Weiche	20	39 1	True	10-2-0	4201	42_c1	We21:Ein
 Weiche	21	38 1	True	10-2-1	4203	42_c2	
 Weiche	22	33 0	False	10-2-3	4217	42_c10	
 Weiche	23	32 0	True	10-2-3	4216	42_c10	
-Weiche	24	35 0	False	10-2-4	4208	42_c5	Fss7:Neg
-Weiche	25	36 0	True	10-2-4	4209	42_c5	Fss7:Neg
+Weiche	24	35 0	False	10-2-5	4208	42_c5	Fss7:Neg
+Weiche	25	36 0	True	10-2-5	4209	42_c5	Fss7:Neg
 Weiche	26	269 0	True	8-2-2	3207	32_b4	
 Weiche	27	270 0	False	8-2-3	3205	31_b1	
 Weiche	28	53 1	False	8-2-3	3206	31_b1	
